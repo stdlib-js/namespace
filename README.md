@@ -82,14 +82,14 @@ var ns = namespace();
 
 ## CLI
 
-<!-- CLI usage documentation. -->
-
 <section class="installation">
 
 ## Installation
 
+To use the module as a general utility, install the module globally
+
 ```bash
-npm install @stdlib/namespace
+npm install -g @stdlib/namespace
 ```
 
 </section>
