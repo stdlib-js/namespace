@@ -21,7 +21,7 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var aliases = require( '@stdlib/namespace/aliases' );
+var aliases = require( './../../aliases' );
 var DATA = require( './../data/data.json' );
 var alias2pkg = require( './../lib' );
 

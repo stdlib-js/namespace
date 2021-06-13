@@ -19,7 +19,7 @@
 'use strict';
 
 var discreteUniform = require( '@stdlib/random/base/discrete-uniform' );
-var aliases = require( '@stdlib/namespace/aliases' );
+var aliases = require( './../../aliases' );
 var alias2related = require( './../lib' );
 
 var list;

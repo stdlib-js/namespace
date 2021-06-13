@@ -22,7 +22,7 @@
 
 var bench = require( '@stdlib/bench' );
 var isStringArray = require( '@stdlib/assert/is-string-array' ).primitives;
-var aliases = require( '@stdlib/namespace/aliases' );
+var aliases = require( './../../aliases' );
 var pkg = require( './../package.json' ).name;
 var alias2related = require( './../lib' );
 

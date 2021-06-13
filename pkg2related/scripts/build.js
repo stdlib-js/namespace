@@ -23,8 +23,8 @@
 var resolve = require( 'path' ).resolve;
 var logger = require( 'debug' );
 var writeFile = require( '@stdlib/fs/write-file' ).sync;
-var namespace = require( '@stdlib/namespace' );
-var pkg2alias = require( '@stdlib/namespace/pkg2alias' );
+var namespace = require( './../..' );
+var pkg2alias = require( './../../pkg2alias' );
 var objectKeys = require( '@stdlib/utils/keys' );
 
 

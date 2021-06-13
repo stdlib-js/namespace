@@ -21,7 +21,7 @@
 // MODULES //
 
 var isString = require( '@stdlib/assert/is-string' ).isPrimitive;
-var alias2pkg = require( '@stdlib/namespace/alias2pkg' );
+var alias2pkg = require( './../../alias2pkg' );
 var startsWith = require( '@stdlib/string/starts-with' );
 var ALIASES = require( './../data/data.json' );
 
