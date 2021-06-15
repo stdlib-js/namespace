@@ -73,8 +73,7 @@
     "@stdlib/symbol": "^0.0.x",
     "@stdlib/time": "^0.0.x",
     "@stdlib/utils": "^0.0.x",
-    "minimist": "^1.2.0",
-    "update-notifier": "^1.0.0"
+    "minimist": "^1.2.0"
   },
   "devDependencies": {
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
