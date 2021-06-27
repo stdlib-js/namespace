@@ -22,6 +22,7 @@
 
 var isString = require( '@stdlib/assert/is-string' ).isPrimitive;
 var hasOwnProp = require( '@stdlib/assert/has-own-property' );
+var standalone2pkg = require( './../../standalone2pkg' );
 var PKG_TO_ALIAS = require( './../data/data.json' );
 
 
@@ -42,6 +43,10 @@ function pkg2alias( pkg ) {
 	if ( !isString( pkg ) ) {
 		throw new TypeError( 'invalid argument. Must provide a string. Value: `' + pkg + '`.' );
 	}
+	if ( hasOwnProp( PKG_TO_ALIAS, pkg ) ) {
+		return PKG_TO_ALIAS[ pkg ];
+	}
+	pkg = standalone2pkg( pkg );
 	if ( hasOwnProp( PKG_TO_ALIAS, pkg ) ) {
 		return PKG_TO_ALIAS[ pkg ];
 	}

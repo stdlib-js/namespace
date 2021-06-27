@@ -3,6 +3,7 @@ AFINN_96
 AFINN_111
 alias2pkg
 alias2related
+alias2standalone
 aliases
 allocUnsafe
 anova1
@@ -2164,6 +2165,7 @@ pickBy
 PINF
 pkg2alias
 pkg2related
+pkg2standalone
 PLATFORM
 plot
 Plot
@@ -2386,6 +2388,7 @@ SQRT_TWO_PI
 SSA_US_BIRTHS_2000_2014
 sswap
 Stack
+standalone2pkg
 STANDARD_CARD_DECK
 startcase
 startsWith

@@ -3,6 +3,7 @@
 "@stdlib/datasets/afinn-111",AFINN_111
 "@stdlib/namespace/alias2pkg",alias2pkg
 "@stdlib/namespace/alias2related",alias2related
+"@stdlib/namespace/alias2standalone",alias2standalone
 "@stdlib/namespace/aliases",aliases
 "@stdlib/buffer/alloc-unsafe",allocUnsafe
 "@stdlib/stats/anova1",anova1
@@ -2164,6 +2165,7 @@
 "@stdlib/constants/float64/pinf",PINF
 "@stdlib/namespace/pkg2alias",pkg2alias
 "@stdlib/namespace/pkg2related",pkg2related
+"@stdlib/namespace/pkg2standalone",pkg2standalone
 "@stdlib/os/platform",PLATFORM
 "@stdlib/plot",plot
 "@stdlib/plot/ctor",Plot
@@ -2386,6 +2388,7 @@
 "@stdlib/datasets/ssa-us-births-2000-2014",SSA_US_BIRTHS_2000_2014
 "@stdlib/blas/sswap",sswap
 "@stdlib/utils/stack",Stack
+"@stdlib/namespace/standalone2pkg",standalone2pkg
 "@stdlib/datasets/standard-card-deck",STANDARD_CARD_DECK
 "@stdlib/string/startcase",startcase
 "@stdlib/string/starts-with",startsWith
