@@ -1,6 +1,6 @@
 {
   "name": "@stdlib/namespace",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "The standard library namespace.",
   "license": "Apache-2.0",
   "author": {
