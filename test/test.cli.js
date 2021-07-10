@@ -23,10 +23,13 @@
 var resolve = require( 'path' ).resolve;
 var exec = require( 'child_process' ).exec;
 var tape = require( 'tape' );
+var pick = require( '@stdlib/utils/pick' );
 var IS_BROWSER = require( '@stdlib/assert/is-browser' );
 var IS_WINDOWS = require( '@stdlib/assert/is-windows' );
 var EXEC_PATH = require( '@stdlib/process/exec-path' );
+var reEOL = require( '@stdlib/regexp/eol' );
 var readFileSync = require( '@stdlib/fs/read-file' ).sync;
+var namespace = require( './../lib' );
 
 
 // VARIABLES //
@@ -40,6 +43,51 @@ var opts = {
 // FIXTURES //
 
 var PKG_VERSION = require( './../package.json' ).version;
+
+
+// FUNCTIONS //
+
+/**
+* Returns data as lines of comma-separated values (CSV).
+*
+* @private
+* @param {ObjectArray} data - data to print
+* @param {StringArray} fields - output fields
+* @returns {string} CSV output
+*/
+function csv( data, fields ) {
+	var line;
+	var out;
+	var f;
+	var i;
+	var j;
+	var n;
+	var m;
+
+	out = '';
+	n = fields.length;
+	m = n - 1;
+	line = '';
+	for ( j = 0; j < n; j++ ) {
+		line += '"' + fields[ j ] + '"';
+		if ( j < m ) {
+			line += ',';
+		}
+	}
+	out += line + '\n';
+	for ( i = 0; i < data.length; i++ ) {
+		line = '';
+		for ( j = 0; j < n; j++ ) {
+			f = fields[ j ];
+			line += '"' + data[ i ][ f ] + '"';
+			if ( j < m ) {
+				line += ',';
+			}
+		}
+		out += line + '\n';
+	}
+	return out;
+}
 
 
 // TESTS //
@@ -141,19 +189,17 @@ tape( 'when invoked with a `-V` flag, the command-line interface prints the vers
 	}
 });
 
-tape( 'the command-line interface prints a package name', opts, function test( t ) {
+tape( 'the command-line interface prints selected fields of the stdlib namespace (comma-separated values)', opts, function test( t ) {
 	var expected;
 	var cmd;
-
-	// Note: the following is intentional, as a build process workaround during individual package publishing...
-	expected = '@stdlib/';
-	expected += 'math/base/special/sin';
 
 	cmd = [
 		EXEC_PATH,
 		fpath,
-		'@stdlib/math-base-special-sin'
+		'--fields alias,path'
 	];
+
+	expected = csv( namespace(), [ 'alias', 'path' ] );
 
 	exec( cmd.join( ' ' ), done );
 
@@ -161,29 +207,44 @@ tape( 'the command-line interface prints a package name', opts, function test( t
 		if ( error ) {
 			t.fail( error.message );
 		} else {
-			t.strictEqual( stdout.toString(), expected+'\n', 'prints expected value' );
+			stdout = stdout.toString();
+			expected = expected.toString();
+			t.strictEqual( stdout, expected, 'prints CSV' );
 			t.strictEqual( stderr.toString(), '', 'does not print to `stderr`' );
 		}
 		t.end();
 	}
 });
 
-tape( 'if unable to resolve a package name, the command-line interface sets a non-zero exit code', opts, function test( t ) {
-	var cmd = [
+tape( 'the command-line interface prints the stdlib namespace (newline-delimited JSON)', opts, function test( t ) {
+	var fields;
+	var cmd;
+	var ns;
+
+	cmd = [
 		EXEC_PATH,
-		fpath,
-		'fjaldfjadljfeoejreandfljasdfjadsfjs'
+		fpath
 	];
+	fields = [ 'alias', 'path', 'type', 'related' ];
+	ns = namespace();
 
 	exec( cmd.join( ' ' ), done );
 
 	function done( error, stdout, stderr ) {
+		var expected;
+		var obj;
+		var i;
 		if ( error ) {
-			t.pass( error.message );
-			t.strictEqual( error.code, 1, 'expected exit code' );
+			t.fail( error.message );
+		} else {
+			stdout = stdout.toString().split( reEOL.REGEXP );
+			for ( i = 0; i < ns.length; i++ ) {
+				expected = pick( ns[ i ], fields );
+				obj = pick( JSON.parse( stdout[ i ] ), fields );
+				t.deepEqual( obj, expected, 'returns expected JSON' );
+			}
+			t.strictEqual( stderr.toString(), '', 'does not print to `stderr`' );
 		}
-		t.strictEqual( stdout.toString(), '', 'does not print to` stdout`' );
-		t.strictEqual( stderr.toString(), '', 'does not print to `stderr`' );
 		t.end();
 	}
 });
