@@ -1405,7 +1405,9 @@ HARRISON_BOSTON_HOUSE_PRICES_CORRECTED
 hasArrayBufferSupport
 hasAsyncAwaitSupport
 hasAsyncIteratorSymbolSupport
+hasBigInt64ArraySupport
 hasBigIntSupport
+hasBigUint64ArraySupport
 hasClassSupport
 hasDataViewSupport
 hasDefinePropertiesSupport
@@ -1620,6 +1622,8 @@ isASCII
 isBetween
 isBetweenArray
 isBigInt
+isBigInt64Array
+isBigUint64Array
 isBinaryString
 isBoolean
 isBooleanArray
@@ -2051,6 +2055,7 @@ keysIn
 kruskalTest
 kstest
 lda
+leveneTest
 LinkedList
 linspace
 LIU_NEGATIVE_OPINION_WORDS_EN
@@ -2314,6 +2319,7 @@ replace
 reRegExp
 rescape
 resolveParentPath
+resolveParentPathBy
 reUncPath
 reUtf16SurrogatePair
 reUtf16UnpairedSurrogate
