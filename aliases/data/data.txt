@@ -83,6 +83,7 @@ base.cadd
 base.cbrt
 base.cbrtf
 base.cceil
+base.cceilf
 base.cceiln
 base.ccis
 base.cdiv
@@ -97,6 +98,8 @@ base.cexp
 base.cflipsign
 base.cfloor
 base.cfloorn
+base.cidentity
+base.cidentityf
 base.cinv
 base.clamp
 base.clampf
@@ -710,6 +713,7 @@ base.minabs
 base.minmax
 base.minmaxabs
 base.modf
+base.mul
 base.ndarray
 base.ndarrayUnary
 base.negafibonacci
@@ -800,6 +804,7 @@ base.sqrt1pm1
 base.sqrtf
 base.strided.binary
 base.strided.ccopy
+base.strided.cmap
 base.strided.cswap
 base.strided.cumax
 base.strided.cumaxabs
@@ -1214,6 +1219,7 @@ base.strided.variancepn
 base.strided.variancetk
 base.strided.variancewd
 base.strided.varianceyc
+base.strided.zmap
 base.sub
 base.subf
 base.sumSeries
@@ -1235,8 +1241,8 @@ base.truncb
 base.truncf
 base.truncn
 base.truncsd
-base.uimul
-base.uimuldw
+base.umul
+base.umuldw
 base.uint32ToInt32
 base.vercos
 base.versin
