@@ -80,6 +80,7 @@ base.boxcoxinv
 base.cabs
 base.cabs2
 base.cadd
+base.caddf
 base.cbrt
 base.cbrtf
 base.cceil
@@ -104,6 +105,7 @@ base.cinv
 base.clamp
 base.clampf
 base.cmul
+base.cmulf
 base.cneg
 base.continuedFraction
 base.copysign
@@ -1110,6 +1112,7 @@ base.strided.sfill
 base.strided.sfloor
 base.strided.sinv
 base.strided.smap
+base.strided.smap2
 base.strided.smax
 base.strided.smaxabs
 base.strided.smaxabssorted
