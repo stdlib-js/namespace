@@ -79,6 +79,7 @@ base.boxcox1pinv
 base.boxcoxinv
 base.cabs
 base.cabs2
+base.cabsf
 base.cadd
 base.caddf
 base.cbrt
@@ -2491,6 +2492,7 @@ strided.mul
 strided.ramp
 strided.rsqrt
 strided.sqrt
+strided.sub
 strided.trunc
 stridedarray2iterator
 stridedArrayStream
