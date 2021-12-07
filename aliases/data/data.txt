@@ -121,6 +121,7 @@ base.cround
 base.croundn
 base.csignum
 base.csub
+base.csubf
 base.deg2rad
 base.deg2radf
 base.digamma
@@ -2479,12 +2480,14 @@ strided.abs
 strided.abs2
 strided.abs2By
 strided.absBy
+strided.add
 strided.cbrt
 strided.ceil
 strided.deg2rad
 strided.dispatch
 strided.floor
 strided.inv
+strided.mul
 strided.ramp
 strided.rsqrt
 strided.sqrt
