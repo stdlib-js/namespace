@@ -1302,6 +1302,7 @@
 "@stdlib/utils/async/compose",composeAsync
 "@stdlib/os/configdir",configdir
 "@stdlib/complex/conj",conj
+"@stdlib/complex/conjf",conjf
 "@stdlib/string/constantcase",constantcase
 "@stdlib/utils/constant-function",constantFunction
 "@stdlib/streams/node/from-constant",constantStream
@@ -1526,6 +1527,7 @@
 "@stdlib/utils/if-then",ifthen
 "@stdlib/utils/async/if-then",ifthenAsync
 "@stdlib/complex/imag",imag
+"@stdlib/complex/imagf",imagf
 "@stdlib/datasets/img-acanthus-mollis",IMG_ACANTHUS_MOLLIS
 "@stdlib/datasets/img-airplane-from-above",IMG_AIRPLANE_FROM_ABOVE
 "@stdlib/datasets/img-allium-oreophilum",IMG_ALLIUM_OREOPHILUM
@@ -2362,6 +2364,7 @@
 "@stdlib/fs/read-json",readJSON
 "@stdlib/fs/read-wasm",readWASM
 "@stdlib/complex/real",real
+"@stdlib/complex/realf",realf
 "@stdlib/utils/real-max",realmax
 "@stdlib/utils/real-min",realmin
 "@stdlib/regexp/basename",reBasename
@@ -2387,6 +2390,7 @@
 "@stdlib/utils/regexp-from-string",reFromString
 "@stdlib/regexp/function-name",reFunctionName
 "@stdlib/complex/reim",reim
+"@stdlib/complex/reimf",reimf
 "@stdlib/string/remove-first",removeFirst
 "@stdlib/string/remove-last",removeLast
 "@stdlib/string/remove-punctuation",removePunctuation
