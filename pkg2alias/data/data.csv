@@ -1388,6 +1388,7 @@
 "@stdlib/utils/fifo",FIFO
 "@stdlib/array/filled",filledarray
 "@stdlib/array/filled-by",filledarrayBy
+"@stdlib/utils/filter-arguments",filterArguments
 "@stdlib/utils/find",find
 "@stdlib/datasets/fivethirtyeight-ffq",FIVETHIRTYEIGHT_FFQ
 "@stdlib/utils/flatten-array",flattenArray
@@ -2157,12 +2158,14 @@
 "@stdlib/string/left-pad",lpad
 "@stdlib/string/left-trim",ltrim
 "@stdlib/datasets/male-first-names-en",MALE_FIRST_NAMES_EN
+"@stdlib/utils/map-arguments",mapArguments
 "@stdlib/utils/map-function",mapFun
 "@stdlib/utils/async/map-function",mapFunAsync
 "@stdlib/utils/map-keys",mapKeys
 "@stdlib/utils/async/map-keys",mapKeysAsync
 "@stdlib/utils/map-values",mapValues
 "@stdlib/utils/async/map-values",mapValuesAsync
+"@stdlib/utils/mask-arguments",maskArguments
 "@stdlib/constants/array/max-array-length",MAX_ARRAY_LENGTH
 "@stdlib/constants/array/max-typed-array-length",MAX_TYPED_ARRAY_LENGTH
 "@stdlib/utils/memoize",memoize
@@ -2391,6 +2394,7 @@
 "@stdlib/regexp/function-name",reFunctionName
 "@stdlib/complex/reim",reim
 "@stdlib/complex/reimf",reimf
+"@stdlib/utils/reject-arguments",rejectArguments
 "@stdlib/string/remove-first",removeFirst
 "@stdlib/string/remove-last",removeLast
 "@stdlib/string/remove-punctuation",removePunctuation
