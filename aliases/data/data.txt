@@ -2186,6 +2186,7 @@ MONTH_NAMES_EN
 MONTHS_IN_YEAR
 moveProperty
 namedtypedtuple
+naryFunction
 nativeClass
 ndarray
 ndarrayCastingModes
@@ -2252,6 +2253,7 @@ PHI
 PI
 PI_SQUARED
 pick
+pickArguments
 pickBy
 PINF
 pkg2alias

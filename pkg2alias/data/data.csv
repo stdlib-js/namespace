@@ -2186,6 +2186,7 @@
 "@stdlib/constants/time/months-in-year",MONTHS_IN_YEAR
 "@stdlib/utils/move-property",moveProperty
 "@stdlib/utils/named-typed-tuple",namedtypedtuple
+"@stdlib/utils/nary-function",naryFunction
 "@stdlib/utils/native-class",nativeClass
 "@stdlib/ndarray/ctor",ndarray
 "@stdlib/ndarray/casting-modes",ndarrayCastingModes
@@ -2252,6 +2253,7 @@
 "@stdlib/constants/float64/pi",PI
 "@stdlib/constants/float64/pi-squared",PI_SQUARED
 "@stdlib/utils/pick",pick
+"@stdlib/utils/pick-arguments",pickArguments
 "@stdlib/utils/pick-by",pickBy
 "@stdlib/constants/float64/pinf",PINF
 "@stdlib/namespace/pkg2alias",pkg2alias
