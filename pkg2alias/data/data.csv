@@ -1298,6 +1298,9 @@
 "@stdlib/complex/float64",Complex128
 "@stdlib/constants/complex128/num-bytes",COMPLEX128_NUM_BYTES
 "@stdlib/array/complex128",Complex128Array
+"@stdlib/array/typed-complex",complexarray
+"@stdlib/array/typed-complex-ctors",complexarrayCtors
+"@stdlib/array/typed-complex-dtypes",complexarrayDataTypes
 "@stdlib/utils/compose",compose
 "@stdlib/utils/async/compose",composeAsync
 "@stdlib/os/configdir",configdir
@@ -2379,6 +2382,9 @@
 "@stdlib/fs/read-json",readJSON
 "@stdlib/fs/read-wasm",readWASM
 "@stdlib/complex/real",real
+"@stdlib/array/typed-real",realarray
+"@stdlib/array/typed-real-ctors",realarrayCtors
+"@stdlib/array/typed-real-dtypes",realarrayDataTypes
 "@stdlib/complex/realf",realf
 "@stdlib/utils/real-max",realmax
 "@stdlib/utils/real-min",realmin
@@ -2553,8 +2559,6 @@
 "@stdlib/constants/float64/two-pi",TWO_PI
 "@stdlib/array/typed",typedarray
 "@stdlib/array/to-json",typedarray2json
-"@stdlib/array/typed-complex-ctors",typedarrayComplexCtors
-"@stdlib/array/typed-complex-dtypes",typedarrayComplexDataTypes
 "@stdlib/array/typed-ctors",typedarrayCtors
 "@stdlib/array/typed-dtypes",typedarrayDataTypes
 "@stdlib/array/pool",typedarraypool
