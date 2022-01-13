@@ -38,6 +38,8 @@
 "@stdlib/array/to-view-iterator","@stdlib/array-to-view-iterator"
 "@stdlib/array/to-view-iterator-right","@stdlib/array-to-view-iterator-right"
 "@stdlib/symbol/async-iterator","@stdlib/symbol-async-iterator"
+"@stdlib/array/zeros","@stdlib/array-zeros"
+"@stdlib/array/zeros-like","@stdlib/array-zeros-like"
 "@stdlib/stats/bartlett-test","@stdlib/stats-bartlett-test"
 "@stdlib/math/base/special/abs","@stdlib/math-base-special-abs"
 "@stdlib/math/base/special/abs2","@stdlib/math-base-special-abs2"

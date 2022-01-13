@@ -38,6 +38,8 @@ arrayStream
 arrayview2iterator
 arrayview2iteratorRight
 AsyncIteratorSymbol
+azeros
+azerosLike
 bartlettTest
 base.abs
 base.abs2
