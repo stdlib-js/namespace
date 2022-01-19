@@ -2,6 +2,8 @@ abs
 acronym
 AFINN_96
 AFINN_111
+afull
+afullLike
 alias2pkg
 alias2related
 alias2standalone
@@ -14,6 +16,7 @@ anyBy
 anyByAsync
 anyByRight
 anyByRightAsync
+aones
 APERY
 append
 ARCH
