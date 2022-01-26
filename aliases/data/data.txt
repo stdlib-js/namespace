@@ -801,6 +801,7 @@ base.roundn
 base.roundsd
 base.rsqrt
 base.rsqrtf
+base.scalar2ndarray
 base.setHighWord
 base.setLowWord
 base.sici
@@ -1250,6 +1251,7 @@ base.toBinaryStringUint16
 base.toBinaryStringUint32
 base.toWordf
 base.toWords
+base.transpose
 base.tribonacci
 base.trigamma
 base.trunc
@@ -2174,7 +2176,9 @@ lpad
 ltrim
 MALE_FIRST_NAMES_EN
 map
+map2
 map2d
+map2Right
 map3d
 map4d
 map5d
@@ -2465,6 +2469,7 @@ SAVOY_STOPWORDS_IT
 SAVOY_STOPWORDS_POR
 SAVOY_STOPWORDS_SP
 SAVOY_STOPWORDS_SWE
+scalar2ndarray
 sdot
 SECONDS_IN_DAY
 SECONDS_IN_HOUR

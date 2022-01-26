@@ -801,6 +801,7 @@
 "@stdlib/math/base/special/roundsd",base.roundsd
 "@stdlib/math/base/special/rsqrt",base.rsqrt
 "@stdlib/math/base/special/rsqrtf",base.rsqrtf
+"@stdlib/ndarray/base/from-scalar",base.scalar2ndarray
 "@stdlib/number/float64/base/set-high-word",base.setHighWord
 "@stdlib/number/float64/base/set-low-word",base.setLowWord
 "@stdlib/math/base/special/sici",base.sici
@@ -1250,6 +1251,7 @@
 "@stdlib/number/uint32/base/to-binary-string",base.toBinaryStringUint32
 "@stdlib/number/float32/base/to-word",base.toWordf
 "@stdlib/number/float64/base/to-words",base.toWords
+"@stdlib/ndarray/base/transpose",base.transpose
 "@stdlib/math/base/special/tribonacci",base.tribonacci
 "@stdlib/math/base/special/trigamma",base.trigamma
 "@stdlib/math/base/special/trunc",base.trunc
@@ -2174,7 +2176,9 @@
 "@stdlib/string/left-trim",ltrim
 "@stdlib/datasets/male-first-names-en",MALE_FIRST_NAMES_EN
 "@stdlib/utils/map",map
+"@stdlib/utils/map2",map2
 "@stdlib/utils/map2d",map2d
+"@stdlib/utils/map2-right",map2Right
 "@stdlib/utils/map3d",map3d
 "@stdlib/utils/map4d",map4d
 "@stdlib/utils/map5d",map5d
@@ -2465,6 +2469,7 @@
 "@stdlib/datasets/savoy-stopwords-por",SAVOY_STOPWORDS_POR
 "@stdlib/datasets/savoy-stopwords-sp",SAVOY_STOPWORDS_SP
 "@stdlib/datasets/savoy-stopwords-swe",SAVOY_STOPWORDS_SWE
+"@stdlib/ndarray/from-scalar",scalar2ndarray
 "@stdlib/blas/sdot",sdot
 "@stdlib/constants/time/seconds-in-day",SECONDS_IN_DAY
 "@stdlib/constants/time/seconds-in-hour",SECONDS_IN_HOUR
