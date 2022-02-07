@@ -1311,6 +1311,9 @@ Complex128Array
 complexarray
 complexarrayCtors
 complexarrayDataTypes
+complexCtors
+complexDataType
+complexDataTypes
 compose
 composeAsync
 configdir
