@@ -24,14 +24,30 @@ limitations under the License.
 
 > Standard library namespace.
 
+<section class="installation">
 
+## Installation
+
+```bash
+npm install @stdlib/namespace
+```
+
+Alternatively,
+
+-   To load the package in a website via a `script` tag without installation and bundlers, use the [ES Module][es-module] available on the [`esm` branch][esm-url].
+-   If you are using Deno, visit the [`deno` branch][deno-url].
+-   For use in Observable, or in browser/node environments, use the [Universal Module Definition (UMD)][umd] build available on the [`umd` branch][umd-url].
+
+The [branches.md][branches-url] file summarizes the available branches and displays a diagram illustrating their relationships.
+
+</section>
 
 <section class="usage">
 
 ## Usage
 
 ```javascript
-import namespace from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace@esm/index.mjs';
+var namespace = require( '@stdlib/namespace' );
 ```
 
 #### namespace()
@@ -55,20 +71,11 @@ var ns = namespace();
 
 <!-- eslint no-undef: "error" -->
 
-```html
-<!DOCTYPE html>
-<html lang="en">
-<body>
-<script type="module">
-
-import namespace from 'https://cdn.jsdelivr.net/gh/stdlib-js/namespace@esm/index.mjs';
+```javascript
+var namespace = require( '@stdlib/namespace' );
 
 var ns = namespace();
 // returns [ {...}, {...}, ... ]
-
-</script>
-</body>
-</html>
 ```
 
 </section>
@@ -77,7 +84,90 @@ var ns = namespace();
 
 <!-- Section for describing a command-line interface. -->
 
+* * *
 
+<section class="cli">
+
+## CLI
+
+<section class="installation">
+
+## Installation
+
+To use the module as a general utility, install the module globally
+
+```bash
+npm install -g @stdlib/namespace
+```
+
+</section>
+<!-- CLI usage documentation. -->
+
+
+<section class="usage">
+
+### Usage
+
+```text
+Usage: stdlib-namespace [options]
+
+Options:
+
+  -h,    --help                Print this message.
+  -V,    --version             Print the package version.
+         --fields f1,f2,...    Print fields as CSV.
+```
+
+</section>
+
+<!-- /.usage -->
+
+<!-- CLI usage notes. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
+<section class="notes">
+
+### Notes
+
+-   The default output format is newline-delimited JSON ([NDJSON][ndjson]). Each printed `object` will contain the following fields: `alias`, `path`, `type`, and `related`. If a namespace element's value can be serialized as [JSON][json], the `object` will contain the element `value`. Otherwise, the `value` field will be missing.
+-   To output data as comma-separated values ([CSV][csv]), specify the desired fields. Supported fields include: `alias`, `path`, `type`, and `related`. The first line is a header line, and all values are enclosed in double quotes `"..."`.
+
+</section>
+
+<!-- /.notes -->
+
+<!-- CLI usage examples. -->
+
+<section class="examples">
+
+### Examples
+
+```bash
+$ stdlib-namespace
+{...}
+{...}
+{...}
+...
+```
+
+To output data as [CSV][csv],
+
+```bash
+$ stdlib-namespace --fields alias,type
+"alias","type"
+"AFINN_111","Function"
+"AFINN_96","Function"
+"any","Function"
+"anyBy","Function"
+...
+```
+
+</section>
+
+<!-- /.examples -->
+
+</section>
+
+<!-- /.cli -->
 
 <!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
 
@@ -96,7 +186,7 @@ var ns = namespace();
 
 ## Notice
 
-This package is part of [stdlib][stdlib], a standard library with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
+This package is part of [stdlib][stdlib], a standard library for JavaScript and Node.js, with an emphasis on numerical and scientific computing. The library provides a collection of robust, high performance libraries for mathematics, statistics, streams, utilities, and more.
 
 For more information on the project, filing bug reports and feature requests, and guidance on how to develop [stdlib][stdlib], see the main project [repository][stdlib].
 
