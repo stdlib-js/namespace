@@ -1500,6 +1500,7 @@
 "@stdlib/process/getuid",getuid
 "@stdlib/constants/float64/glaisher-kinkelin",GLAISHER
 "@stdlib/string/to-grapheme-cluster-iterator",graphemeClusters2iterator
+"@stdlib/string/to-grapheme-cluster-iterator-right",graphemeClusters2iteratorRight
 "@stdlib/utils/group",group
 "@stdlib/utils/group-by",groupBy
 "@stdlib/utils/async/group-by",groupByAsync
@@ -2317,6 +2318,7 @@
 "@stdlib/utils/pop",pop
 "@stdlib/nlp/porter-stemmer",porterStemmer
 "@stdlib/utils/prepend",prepend
+"@stdlib/string/prev-grapheme-cluster-break",prevGraphemeClusterBreak
 "@stdlib/datasets/primes-100k",PRIMES_100K
 "@stdlib/utils/properties",properties
 "@stdlib/utils/properties-in",propertiesIn
