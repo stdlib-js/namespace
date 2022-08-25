@@ -44,6 +44,7 @@
     "@stdlib/bench": "github:stdlib-js/bench#main",
     "@stdlib/bigint": "github:stdlib-js/bigint#main",
     "@stdlib/blas": "github:stdlib-js/blas#main",
+    "@stdlib/boolean": "github:stdlib-js/boolean#main",
     "@stdlib/buffer": "github:stdlib-js/buffer#main",
     "@stdlib/cli": "github:stdlib-js/cli#main",
     "@stdlib/complex": "github:stdlib-js/complex#main",
