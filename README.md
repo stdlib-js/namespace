@@ -230,7 +230,7 @@ Copyright &copy; 2016-2023. The Stdlib [Authors][stdlib-authors].
 
 [cli-section]: https://github.com/stdlib-js/namespace#cli
 [cli-url]: https://github.com/stdlib-js/namespace/tree/cli
-[main-url]: https://github.com/stdlib-js/namespace
+[@stdlib/namespace]: https://github.com/stdlib-js/namespace/tree/main
 
 [stdlib-license]: https://raw.githubusercontent.com/stdlib-js/namespace/main/LICENSE
 
