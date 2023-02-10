@@ -2353,6 +2353,7 @@
 "@stdlib/utils/push",push
 "@stdlib/time/quarter-of-year",quarterOfYear
 "@stdlib/random/array/arcsine",random.array.arcsine
+"@stdlib/random/array/beta",random.array.beta
 "@stdlib/random/array/discrete-uniform",random.array.discreteUniform
 "@stdlib/random/array/lognormal",random.array.lognormal
 "@stdlib/random/array/normal",random.array.normal
@@ -2440,6 +2441,7 @@
 "@stdlib/random/streams/uniform",random.streams.uniform
 "@stdlib/random/streams/weibull",random.streams.weibull
 "@stdlib/random/strided/arcsine",random.strided.arcsine
+"@stdlib/random/strided/beta",random.strided.beta
 "@stdlib/random/strided/discrete-uniform",random.strided.discreteUniform
 "@stdlib/random/strided/lognormal",random.strided.lognormal
 "@stdlib/random/strided/normal",random.strided.normal
