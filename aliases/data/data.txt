@@ -2354,10 +2354,14 @@ push
 quarterOfYear
 random.array.arcsine
 random.array.beta
+random.array.betaprime
 random.array.discreteUniform
 random.array.exponential
+random.array.gamma
+random.array.invgamma
 random.array.lognormal
 random.array.minstd
+random.array.minstdShuffle
 random.array.mt19937
 random.array.normal
 random.array.randu
@@ -2446,6 +2450,7 @@ random.streams.uniform
 random.streams.weibull
 random.strided.arcsine
 random.strided.beta
+random.strided.betaprime
 random.strided.discreteUniform
 random.strided.exponential
 random.strided.lognormal
