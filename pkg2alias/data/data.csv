@@ -653,6 +653,7 @@
 "@stdlib/math/base/special/floorf",base.floorf
 "@stdlib/math/base/special/floorn",base.floorn
 "@stdlib/math/base/special/floorsd",base.floorsd
+"@stdlib/string/base/for-each-grapheme-cluster",base.forEachGraphemeCluster
 "@stdlib/math/base/special/fresnel",base.fresnel
 "@stdlib/math/base/special/fresnelc",base.fresnelc
 "@stdlib/math/base/special/fresnels",base.fresnels
@@ -1499,6 +1500,7 @@
 "@stdlib/array/float64",Float64Array
 "@stdlib/utils/for-each",forEach
 "@stdlib/utils/async/for-each",forEachAsync
+"@stdlib/string/for-each",forEachChar
 "@stdlib/utils/for-each-right",forEachRight
 "@stdlib/utils/async/for-each-right",forEachRightAsync
 "@stdlib/utils/for-in",forIn

@@ -653,6 +653,7 @@ base.floorb
 base.floorf
 base.floorn
 base.floorsd
+base.forEachGraphemeCluster
 base.fresnel
 base.fresnelc
 base.fresnels
@@ -1499,6 +1500,7 @@ FLOAT64_SMALLEST_SUBNORMAL
 Float64Array
 forEach
 forEachAsync
+forEachChar
 forEachRight
 forEachRightAsync
 forIn
