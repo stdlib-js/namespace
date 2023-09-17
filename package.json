@@ -68,6 +68,7 @@
     "@stdlib/random": "github:stdlib-js/random#main",
     "@stdlib/regexp": "github:stdlib-js/regexp#main",
     "@stdlib/simulate": "github:stdlib-js/simulate#main",
+    "@stdlib/slice": "github:stdlib-js/slice#main",
     "@stdlib/stats": "github:stdlib-js/stats#main",
     "@stdlib/streams": "github:stdlib-js/streams#main",
     "@stdlib/strided": "github:stdlib-js/strided#main",
