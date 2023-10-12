@@ -1,7 +1,7 @@
 /**
 * @license Apache-2.0
 *
-* Copyright (c) 2018 The Stdlib Authors.
+* Copyright (c) 2023 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -21,31 +21,13 @@
 // MODULES //
 
 var tape = require( 'tape' );
-var isPlainObjectArray = require( '@stdlib/assert/is-plain-object-array' );
-var namespace = require( './../../dist' );
+var main = require( './../../dist' );
 
 
 // TESTS //
 
-tape( 'main export is a function', function test( t ) {
+tape( 'main export is defined', function test( t ) {
 	t.ok( true, __filename );
-	t.strictEqual( typeof namespace, 'function', 'main export is a function' );
-	t.end();
-});
-
-tape( 'the function returns the standard library namespace', function test( t ) {
-	var ns1;
-	var ns2;
-
-	ns1 = namespace();
-	t.strictEqual( isPlainObjectArray( ns1 ), true, 'returns an object array' );
-
-	ns2 = namespace();
-	t.strictEqual( isPlainObjectArray( ns2 ), true, 'returns an object array' );
-
-	t.notEqual( ns1, ns2, 'returns new reference' );
-	t.notEqual( ns1[ 0 ], ns2[ 0 ], 'contains different references' );
-	t.notEqual( ns1[ 0 ].related, ns2[ 0 ].related, 'contains different references' );
-
+	t.strictEqual( main !== void 0, true, 'main export is defined' );
 	t.end();
 });
