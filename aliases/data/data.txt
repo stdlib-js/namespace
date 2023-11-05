@@ -2296,10 +2296,12 @@ ndempty
 ndemptyLike
 ndims
 nditer2arrayEach
+nditerColumnEntries
 nditerColumns
 nditerEntries
 nditerIndices
 nditerMatrices
+nditerMatrixEntries
 nditerRowEntries
 nditerRows
 nditerValues

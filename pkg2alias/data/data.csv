@@ -2296,10 +2296,12 @@
 "@stdlib/ndarray/empty-like",ndemptyLike
 "@stdlib/ndarray/ndims",ndims
 "@stdlib/ndarray/iter/to-array-each",nditer2arrayEach
+"@stdlib/ndarray/iter/column-entries",nditerColumnEntries
 "@stdlib/ndarray/iter/columns",nditerColumns
 "@stdlib/ndarray/iter/entries",nditerEntries
 "@stdlib/ndarray/iter/indices",nditerIndices
 "@stdlib/ndarray/iter/matrices",nditerMatrices
+"@stdlib/ndarray/iter/matrix-entries",nditerMatrixEntries
 "@stdlib/ndarray/iter/row-entries",nditerRowEntries
 "@stdlib/ndarray/iter/rows",nditerRows
 "@stdlib/ndarray/iter/values",nditerValues
