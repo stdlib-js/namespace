@@ -124,6 +124,7 @@ base.clampf
 base.cmul
 base.cmulf
 base.cneg
+base.cnegf
 base.continuedFraction
 base.copysign
 base.copysignf
@@ -147,6 +148,8 @@ base.deg2rad
 base.deg2radf
 base.digamma
 base.diracDelta
+base.div
+base.divf
 base.dists.arcsine.Arcsine
 base.dists.arcsine.cdf
 base.dists.arcsine.entropy

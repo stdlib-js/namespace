@@ -124,6 +124,7 @@
 "@stdlib/math/base/ops/cmul",base.cmul
 "@stdlib/math/base/ops/cmulf",base.cmulf
 "@stdlib/math/base/ops/cneg",base.cneg
+"@stdlib/math/base/ops/cnegf",base.cnegf
 "@stdlib/math/base/tools/continued-fraction",base.continuedFraction
 "@stdlib/math/base/special/copysign",base.copysign
 "@stdlib/math/base/special/copysignf",base.copysignf
@@ -147,6 +148,8 @@
 "@stdlib/math/base/special/deg2radf",base.deg2radf
 "@stdlib/math/base/special/digamma",base.digamma
 "@stdlib/math/base/special/dirac-delta",base.diracDelta
+"@stdlib/math/base/ops/div",base.div
+"@stdlib/math/base/ops/divf",base.divf
 "@stdlib/stats/base/dists/arcsine/ctor",base.dists.arcsine.Arcsine
 "@stdlib/stats/base/dists/arcsine/cdf",base.dists.arcsine.cdf
 "@stdlib/stats/base/dists/arcsine/entropy",base.dists.arcsine.entropy
