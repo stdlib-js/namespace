@@ -2356,6 +2356,7 @@ NUM_CPUS
 num2words
 Number
 numel
+numelDimension
 numGraphemeClusters
 Object
 objectEntries
@@ -2420,6 +2421,7 @@ Proxy
 push
 quarterOfYear
 random.array.arcsine
+random.array.bernoulli
 random.array.beta
 random.array.betaprime
 random.array.cosine
