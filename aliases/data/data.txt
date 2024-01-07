@@ -2425,6 +2425,7 @@ random.array.bernoulli
 random.array.beta
 random.array.betaprime
 random.array.chi
+random.array.chisquare
 random.array.cosine
 random.array.discreteUniform
 random.array.exponential
@@ -2439,6 +2440,7 @@ random.array.normal
 random.array.poisson
 random.array.randu
 random.array.rayleigh
+random.array.t
 random.array.uniform
 random.iterators.arcsine
 random.iterators.bernoulli
