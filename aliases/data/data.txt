@@ -1346,9 +1346,11 @@ commonKeysIn
 complex
 Complex64
 COMPLEX64_NUM_BYTES
+COMPLEX64_ZERO
 Complex64Array
 Complex128
 COMPLEX128_NUM_BYTES
+COMPLEX128_ZERO
 Complex128Array
 complexarray
 complexarrayCtors

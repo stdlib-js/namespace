@@ -1346,9 +1346,11 @@
 "@stdlib/complex/cmplx",complex
 "@stdlib/complex/float32",Complex64
 "@stdlib/constants/complex64/num-bytes",COMPLEX64_NUM_BYTES
+"@stdlib/constants/complex64/zero",COMPLEX64_ZERO
 "@stdlib/array/complex64",Complex64Array
 "@stdlib/complex/float64",Complex128
 "@stdlib/constants/complex128/num-bytes",COMPLEX128_NUM_BYTES
+"@stdlib/constants/complex128/zero",COMPLEX128_ZERO
 "@stdlib/array/complex128",Complex128Array
 "@stdlib/array/typed-complex",complexarray
 "@stdlib/array/typed-complex-ctors",complexarrayCtors
