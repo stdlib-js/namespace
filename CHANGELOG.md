@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-06-18)
+## Unreleased (2024-06-21)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`938ebb9`](https://github.com/stdlib-js/stdlib/commit/938ebb98bff54870d8568dc6360b806b518f12b1) - add missing packages to REPL namespace
@@ -79,6 +80,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
@@ -131,6 +133,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
@@ -163,6 +166,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
@@ -195,6 +199,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
@@ -227,6 +232,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
@@ -279,6 +285,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
@@ -331,6 +338,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
@@ -383,6 +391,7 @@
 
 ##### Features
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
 -   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
@@ -468,6 +477,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - **feat:** add `aplace` to namespace _(by Athan Reines)_
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - **feat:** add `aput` to namespace _(by Athan Reines)_
 -   [`34ef42e`](https://github.com/stdlib-js/stdlib/commit/34ef42e798ec33e1f3a62a15a460dd46ae7c693c) - **docs:** update REPL namespace documentation [(#2246)](https://github.com/stdlib-js/stdlib/pull/2246) _(by stdlib-bot, Athan Reines)_
 -   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd) - **remove:** remove `complex/reviver-float64` _(by Athan Reines)_
