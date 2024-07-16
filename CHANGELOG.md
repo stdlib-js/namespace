@@ -486,6 +486,8 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`8908bda`](https://github.com/stdlib-js/stdlib/commit/8908bda11588f80edf375466ae9e84a3d70cf7d3) - **refactor:** update paths _(by Athan Reines)_
+-   [`ad760a9`](https://github.com/stdlib-js/stdlib/commit/ad760a922086631226d8f759a0d467c707fbc0fb) - **refactor:** update paths _(by Athan Reines)_
 -   [`87fdfa1`](https://github.com/stdlib-js/stdlib/commit/87fdfa106f4c75b60a3c79c7fb4ca08f5c172862) - **refactor:** update paths _(by Athan Reines)_
 -   [`0ede1a5`](https://github.com/stdlib-js/stdlib/commit/0ede1a53e30a7a85d74481fbcdfb44e28016fa55) - **refactor:** update paths _(by Athan Reines)_
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - **feat:** add `amskput` to namespace _(by Athan Reines)_
