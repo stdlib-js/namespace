@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -63,6 +64,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -99,6 +101,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -135,6 +138,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -171,6 +175,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -207,6 +212,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -243,6 +249,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -279,6 +286,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -315,6 +323,7 @@
 
 ##### Features
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
@@ -364,6 +373,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - **feat:** add `nditerStacks` to namespace _(by Athan Reines)_
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - **feat:** add `nditerSubarrays` to namespace _(by Athan Reines)_
 -   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - **feat:** add `nditerSelectDimension` to namespace _(by Athan Reines)_
 -   [`c89a171`](https://github.com/stdlib-js/stdlib/commit/c89a171db9b4664582fab09dc95a5cc3b58f9f21) - **docs:** update REPL namespace documentation [(#2629)](https://github.com/stdlib-js/stdlib/pull/2629) _(by stdlib-bot, Athan Reines)_
