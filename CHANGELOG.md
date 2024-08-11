@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-19)
+## Unreleased (2024-08-11)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
@@ -45,26 +46,6 @@
 
 <!-- /.features -->
 
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd): remove `complex/reviver-float64` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float64/reviver` which provides the same API and
-    implementation.
-
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3): remove `complex/reviver-float32` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float32/reviver` which provides the same API and
-    implementation.
-
-</section>
-
-<!-- /.breaking-changes -->
-
 </details>
 
 </section>
@@ -81,11 +62,12 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239)
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
@@ -98,26 +80,6 @@
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd): remove `complex/reviver-float64` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float64/reviver` which provides the same API and
-    implementation.
-
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3): remove `complex/reviver-float32` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float32/reviver` which provides the same API and
-    implementation.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -135,11 +97,12 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239)
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
@@ -169,11 +132,12 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239)
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
@@ -203,11 +167,12 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239)
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
@@ -237,11 +202,12 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239)
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
@@ -254,26 +220,6 @@
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd): remove `complex/reviver-float64` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float64/reviver` which provides the same API and
-    implementation.
-
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3): remove `complex/reviver-float32` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float32/reviver` which provides the same API and
-    implementation.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -291,11 +237,12 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239)
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
@@ -308,26 +255,6 @@
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd): remove `complex/reviver-float64` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float64/reviver` which provides the same API and
-    implementation.
-
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3): remove `complex/reviver-float32` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float32/reviver` which provides the same API and
-    implementation.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -345,11 +272,12 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239)
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
@@ -362,26 +290,6 @@
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd): remove `complex/reviver-float64` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float64/reviver` which provides the same API and
-    implementation.
-
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3): remove `complex/reviver-float32` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float32/reviver` which provides the same API and
-    implementation.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -399,11 +307,12 @@
 
 ##### Features
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - add `nditerSelectDimension` to namespace
 -   [`ba4ce18`](https://github.com/stdlib-js/stdlib/commit/ba4ce188564d0207be7b780202dd4966b8dd9459) - add `amskput` to namespace
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - add `aplace` to namespace
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - add `aput` to namespace
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - add `BooleanArray` to namespace
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(##2239)](#2239)
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239)
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - add `isNonNegativeFinite` to namespace
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - add `amskreject` to namespace
 -   [`04230cb`](https://github.com/stdlib-js/stdlib/commit/04230cb82fa47bd9db6ea4e29ffc3197ece4162a) - add `amskfilter` to namespace
@@ -417,26 +326,6 @@
 
 <!-- /.features -->
 
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd): remove `complex/reviver-float64` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float64/reviver` which provides the same API and
-    implementation.
-
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3): remove `complex/reviver-float32` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float32/reviver` which provides the same API and
-    implementation.
-
-</section>
-
-<!-- /.breaking-changes -->
-
 </details>
 
 </section>
@@ -446,26 +335,6 @@
 </section>
 
 <!-- /.packages -->
-
-<section class="breaking-changes">
-
-### BREAKING CHANGES
-
--   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd): remove `complex/reviver-float64` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float64/reviver` which provides the same API and
-    implementation.
-
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3): remove `complex/reviver-float32` 
-
-    -   To migrate, users should update their require/import paths to use
-    `@stdlib/complex/float32/reviver` which provides the same API and
-    implementation.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 <section class="contributors">
 
@@ -486,11 +355,12 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`972755d`](https://github.com/stdlib-js/stdlib/commit/972755d8507363c18125a4e046d98ed1010dd531) - **feat:** add `nditerSelectDimension` to namespace _(by Athan Reines)_
 -   [`c89a171`](https://github.com/stdlib-js/stdlib/commit/c89a171db9b4664582fab09dc95a5cc3b58f9f21) - **docs:** update REPL namespace documentation [(#2629)](https://github.com/stdlib-js/stdlib/pull/2629) _(by stdlib-bot, Athan Reines)_
 -   [`e3a3679`](https://github.com/stdlib-js/stdlib/commit/e3a3679f1e733cf02ce47cdc4bd0137bd37bef41) - **refactor:** update paths _(by Athan Reines)_
 -   [`ddd4403`](https://github.com/stdlib-js/stdlib/commit/ddd44032f9d8a6d318c80e3b239ff72280ffc599) - **refactor:** update paths _(by Athan Reines)_
 -   [`f049887`](https://github.com/stdlib-js/stdlib/commit/f04988792e2e55ce47c87c7d94e8c222c3b9d2b6) - **docs:** update REPL docs _(by Athan Reines)_
--   [`203021c`](https://github.com/stdlib-js/stdlib/commit/203021c9da83f016ffd95e454fa057d8cc37b0ff) - **docs:** update REPL namespace documentation [(##2622)](#2622) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`203021c`](https://github.com/stdlib-js/stdlib/commit/203021c9da83f016ffd95e454fa057d8cc37b0ff) - **docs:** update REPL namespace documentation [(#2622)](https://github.com/stdlib-js/stdlib/pull/2622) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`0406147`](https://github.com/stdlib-js/stdlib/commit/04061476d1036e1b8b786736b1ba1653eddff1ef) - **refactor:** update paths _(by Athan Reines)_
 -   [`b9703b5`](https://github.com/stdlib-js/stdlib/commit/b9703b569dc2f0a67e604e388a0d188b08138b48) - **refactor:** update paths _(by Athan Reines)_
 -   [`32bbcb3`](https://github.com/stdlib-js/stdlib/commit/32bbcb3b3dae1f028fd18166ee7875a93d44d0ee) - **refactor:** update paths _(by Athan Reines)_
@@ -505,11 +375,9 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`3eb5c20`](https://github.com/stdlib-js/stdlib/commit/3eb5c20b3f683af347e2c502e670fb6c88527f6c) - **feat:** add `aplace` to namespace _(by Athan Reines)_
 -   [`89026af`](https://github.com/stdlib-js/stdlib/commit/89026afb85fbfa45556d4921686c62092f4fe8b8) - **feat:** add `aput` to namespace _(by Athan Reines)_
 -   [`34ef42e`](https://github.com/stdlib-js/stdlib/commit/34ef42e798ec33e1f3a62a15a460dd46ae7c693c) - **docs:** update REPL namespace documentation [(#2246)](https://github.com/stdlib-js/stdlib/pull/2246) _(by stdlib-bot, Athan Reines)_
--   [`7381394`](https://github.com/stdlib-js/stdlib/commit/738139479cf29cbe123d7c5028024983ba11b3bd) - **remove:** remove `complex/reviver-float64` _(by Athan Reines)_
--   [`00d0530`](https://github.com/stdlib-js/stdlib/commit/00d0530d0daabe872c5bc9559abae76b2024dfe3) - **remove:** remove `complex/reviver-float32` _(by Athan Reines)_
 -   [`75d4f83`](https://github.com/stdlib-js/stdlib/commit/75d4f83cb85610d23a04dc21a03f8075f6d3665f) - **refactor:** update require and include paths _(by Athan Reines)_
 -   [`0f9acd1`](https://github.com/stdlib-js/stdlib/commit/0f9acd17de012dfe755c98b602d6bb3dbe1e8117) - **feat:** add `BooleanArray` to namespace _(by Athan Reines)_
--   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - **feat:** update namespace databases [(##2239)](#2239) _(by stdlib-bot)_
+-   [`b5c2139`](https://github.com/stdlib-js/stdlib/commit/b5c21390fd63572bf348a178a2f816d5702bf785) - **feat:** update namespace databases [(#2239)](https://github.com/stdlib-js/stdlib/pull/2239) _(by stdlib-bot)_
 -   [`938ebb9`](https://github.com/stdlib-js/stdlib/commit/938ebb98bff54870d8568dc6360b806b518f12b1) - **feat:** add missing packages to REPL namespace _(by Philipp Burckhardt)_
 -   [`08d85a3`](https://github.com/stdlib-js/stdlib/commit/08d85a3ef021a0cf7e075fe00b874b2e80faef73) - **feat:** add missing packages to REPL namespace _(by Philipp Burckhardt)_
 -   [`f652096`](https://github.com/stdlib-js/stdlib/commit/f65209620cfe95afb452ddb288dfd916e33d7c49) - **feat:** add missing packages to REPL namespace _(by Philipp Burckhardt)_
@@ -520,7 +388,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`a311ad6`](https://github.com/stdlib-js/stdlib/commit/a311ad66fd73a0ca3d8638aeb49a9a44fdbd26ff) - **feat:** add missing packages to REPL namespace _(by Philipp Burckhardt)_
 -   [`dc6e8dd`](https://github.com/stdlib-js/stdlib/commit/dc6e8dd3ddf88d549f86895691fdc763cd355468) - **docs:** update REPL namespace documentation [(#2164)](https://github.com/stdlib-js/stdlib/pull/2164) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`c91d15e`](https://github.com/stdlib-js/stdlib/commit/c91d15e07e9fd9f4ac754f55d48bd18935bf8536) - **build:** add trailing newlines in generated JSON files _(by Philipp Burckhardt)_
--   [`915a373`](https://github.com/stdlib-js/stdlib/commit/915a37396f39be83ba6c77bb5f6d9d515c6560c6) - **docs:** update REPL namespace documentation [(##2158)](#2158) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`915a373`](https://github.com/stdlib-js/stdlib/commit/915a37396f39be83ba6c77bb5f6d9d515c6560c6) - **docs:** update REPL namespace documentation [(#2158)](https://github.com/stdlib-js/stdlib/pull/2158) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`9ed7d0e`](https://github.com/stdlib-js/stdlib/commit/9ed7d0e7d57edb5ad0dfb65c944bed87d475cbf3) - **chore:** add missing trailing newlines _(by Philipp Burckhardt)_
 -   [`d7798af`](https://github.com/stdlib-js/stdlib/commit/d7798af1c843b45d0bbaddadedf7d2961a1b3f57) - **feat:** add `isNonNegativeFinite` to namespace _(by Athan Reines)_
 -   [`503c398`](https://github.com/stdlib-js/stdlib/commit/503c3988cb7288cf04abe493c08c65d73a63c3d7) - **feat:** add `amskreject` to namespace _(by Athan Reines)_
@@ -547,7 +415,29 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 ### Packages
 
-<section class="package" id="namespace-v0.2.1">
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.2.0 (2024-02-05)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="namespace-v0.2.0">
 
 #### [@stdlib/namespace](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace)
 
@@ -620,72 +510,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`5305ebf`](https://github.com/stdlib-js/stdlib/commit/5305ebfaec2a5a94dc9b88cb75abde1a2eded2c2) - add log1pmx to REPL namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`3ce7539`](https://github.com/stdlib-js/stdlib/commit/3ce7539df9ba0cac24a9f8bb1183fc24a5b4d0b8) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -693,7 +521,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="namespace-alias2pkg-v0.2.1">
+<section class="package" id="namespace-alias2pkg-v0.2.0">
 
 #### [@stdlib/namespace/alias2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2pkg)
 
@@ -765,71 +593,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -837,7 +604,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="namespace-alias2related-v0.2.1">
+<section class="package" id="namespace-alias2related-v0.2.0">
 
 #### [@stdlib/namespace/alias2related](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2related)
 
@@ -910,71 +677,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -982,7 +688,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="namespace-alias2standalone-v0.2.1">
+<section class="package" id="namespace-alias2standalone-v0.2.0">
 
 #### [@stdlib/namespace/alias2standalone](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2standalone)
 
@@ -1054,71 +760,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -1126,7 +771,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="namespace-aliases-v0.2.1">
+<section class="package" id="namespace-aliases-v0.2.0">
 
 #### [@stdlib/namespace/aliases](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/aliases)
 
@@ -1198,71 +843,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -1270,7 +854,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="namespace-pkg2alias-v0.2.1">
+<section class="package" id="namespace-pkg2alias-v0.2.0">
 
 #### [@stdlib/namespace/pkg2alias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2alias)
 
@@ -1342,71 +926,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -1414,7 +937,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="namespace-pkg2related-v0.2.1">
+<section class="package" id="namespace-pkg2related-v0.2.0">
 
 #### [@stdlib/namespace/pkg2related](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2related)
 
@@ -1487,71 +1010,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -1559,7 +1021,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="namespace-pkg2standalone-v0.2.1">
+<section class="package" id="namespace-pkg2standalone-v0.2.0">
 
 #### [@stdlib/namespace/pkg2standalone](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2standalone)
 
@@ -1631,71 +1093,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -1703,7 +1104,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.package -->
 
-<section class="package" id="namespace-standalone2pkg-v0.2.1">
+<section class="package" id="namespace-standalone2pkg-v0.2.0">
 
 #### [@stdlib/namespace/standalone2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/standalone2pkg)
 
@@ -1775,71 +1176,10 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`9554641`](https://github.com/stdlib-js/stdlib/commit/9554641325686a4213956c6a9d54428fd86d622f) - add `base.cnegf` to namespace
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - add `base.div` and `base.divf` to namespace
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - add `base.factorial2` to namespace
--   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
--   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
--   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
--   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
--   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
--   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
--   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
--   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
--   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
--   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
--   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
--   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
--   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
--   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
--   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
--   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
--   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
--   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
--   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
--   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
--   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
--   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
--   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
--   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
--   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
--   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
--   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
--   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
--   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
--   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
--   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
--   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
--   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
--   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
--   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
--   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
--   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
--   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
--   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
--   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
--   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
--   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
--   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
--   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
--   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
--   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
--   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
 
 </section>
 
 <!-- /.features -->
-
-<section class="breaking-changes">
-
-##### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
 
 </details>
 
@@ -1851,27 +1191,13 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <!-- /.packages -->
 
-<section class="breaking-changes">
-
-### BREAKING CHANGES
-
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
--   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
-
-    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
-
-</section>
-
-<!-- /.breaking-changes -->
-
 <section class="contributors">
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 1 person contributed to this release. Thank you to this contributor:
 
 -   Athan Reines
--   Philipp Burckhardt
 
 </section>
 
@@ -1947,6 +1273,816 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`4cda914`](https://github.com/stdlib-js/stdlib/commit/4cda91428d831169e321df4729654918e6ca2e02) - **feat:** add `base.div` and `base.divf` to namespace _(by Athan Reines)_
 -   [`c7f7cba`](https://github.com/stdlib-js/stdlib/commit/c7f7cba52560d5780b5f06692420b1a8efdb3be5) - **feat:** add `base.factorial2` to namespace _(by Athan Reines)_
 -   [`a49bb3d`](https://github.com/stdlib-js/stdlib/commit/a49bb3d59e055b9ce2d393132673b5d901977f75) - **docs:** update REPL docs _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.1.1 (2023-11-08)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.1.0 (2023-11-08)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="namespace-v0.1.0">
+
+#### [@stdlib/namespace](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`5305ebf`](https://github.com/stdlib-js/stdlib/commit/5305ebfaec2a5a94dc9b88cb75abde1a2eded2c2) - add log1pmx to REPL namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`3ce7539`](https://github.com/stdlib-js/stdlib/commit/3ce7539df9ba0cac24a9f8bb1183fc24a5b4d0b8) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-alias2pkg-v0.1.0">
+
+#### [@stdlib/namespace/alias2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2pkg)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-alias2related-v0.1.0">
+
+#### [@stdlib/namespace/alias2related](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2related)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-alias2standalone-v0.1.0">
+
+#### [@stdlib/namespace/alias2standalone](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2standalone)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-aliases-v0.1.0">
+
+#### [@stdlib/namespace/aliases](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/aliases)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-pkg2alias-v0.1.0">
+
+#### [@stdlib/namespace/pkg2alias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2alias)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-pkg2related-v0.1.0">
+
+#### [@stdlib/namespace/pkg2related](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2related)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-pkg2standalone-v0.1.0">
+
+#### [@stdlib/namespace/pkg2standalone](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2standalone)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-standalone2pkg-v0.1.0">
+
+#### [@stdlib/namespace/standalone2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/standalone2pkg)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - add `nditerMatrixEntries` to namespace
+-   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - add `nditerColumnEntries` to namespace
+-   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - add `nditerRowEntries` to namespace
+-   [`9fa9570`](https://github.com/stdlib-js/stdlib/commit/9fa95704a6340b2c822ade35e652a8138f413c92) - add `nditerMatrices` to namespace
+-   [`aba8c1a`](https://github.com/stdlib-js/stdlib/commit/aba8c1aba168610dd84ce6081ab4cb49b7e53d6f) - add `ndsliceDimensionFrom` to namespace
+-   [`6fda483`](https://github.com/stdlib-js/stdlib/commit/6fda483c94a65235ad0e8f2136a7d79d5321877c) - add `ndsliceDimensionTo` to namespace
+-   [`2b304a0`](https://github.com/stdlib-js/stdlib/commit/2b304a0bc830744c7136458643a2dcc39e9f914c) - add `ndarrayMostlySafeCasts` to namespace
+-   [`110bfb3`](https://github.com/stdlib-js/stdlib/commit/110bfb3860cdaf719e4fc66bd666a1aa039144ca) - add `ndsliceDimension` to namespace
+-   [`7b6b703`](https://github.com/stdlib-js/stdlib/commit/7b6b703b25243c719eb6889b4ab98ae94d5c0f5a) - add `ndarrayDataBuffer` to namespace
+-   [`4227c05`](https://github.com/stdlib-js/stdlib/commit/4227c05d4937087fcd516631b752a28a49ab0621) - add `ndarrayOrder` to namespace and rename aliases
+-   [`c709f38`](https://github.com/stdlib-js/stdlib/commit/c709f38ccff4a04ac822cd6b2e50796eedda19ba) - add `ndarrayDataType` to namespace
+-   [`895a173`](https://github.com/stdlib-js/stdlib/commit/895a17381026cd3ae0a4ad174a20a1ace921d371) - add `ndstrides` to namespace
+-   [`3a44e7e`](https://github.com/stdlib-js/stdlib/commit/3a44e7ebb576af7c0e301c6144f9be1d38ef2b8e) - add `ndshape` to namespace
+-   [`d4c08ee`](https://github.com/stdlib-js/stdlib/commit/d4c08ee5a117122d55659673cddbff7700dc7e1d) - add `ndims` to namespace
+-   [`7ac268b`](https://github.com/stdlib-js/stdlib/commit/7ac268b4abd82075b329f16ba991d0d36524fe12) - add `numel` to namespace
+-   [`c8af478`](https://github.com/stdlib-js/stdlib/commit/c8af478451bc77398bada48450f65406ba460504) - add `maybeBroadcastArray` to namespace
+-   [`34b1f69`](https://github.com/stdlib-js/stdlib/commit/34b1f69b901244fb6031b62807c15f2b57aad033) - add `nditerValues` to namespace
+-   [`fccaeba`](https://github.com/stdlib-js/stdlib/commit/fccaeba2348add1ffec64c5dd85b9bae0a42d96f) - add `nditerEntries` to namespace
+-   [`4968a1a`](https://github.com/stdlib-js/stdlib/commit/4968a1a5acdcc4cae29a5dad9b528e8e45a0788e) - add `nditerIndices` to namespace
+-   [`24d4d1c`](https://github.com/stdlib-js/stdlib/commit/24d4d1c19bc76d83670bc29dee067194ad44eaf8) - add `broadcastArray` to namespace
+-   [`518c4a6`](https://github.com/stdlib-js/stdlib/commit/518c4a6ba9d2eca11da52af52ffdce9589aabffc) - add `nditer2arrayEach` to namespace
+-   [`de48915`](https://github.com/stdlib-js/stdlib/commit/de48915ef4b974ad254ed2f823a38974dd1feedc) - add `nditerRows` and `nditerColumns` to namespace
+-   [`b9dfb43`](https://github.com/stdlib-js/stdlib/commit/b9dfb43ca2556094a9abce4005f0952ed49d9245) - add `ndsliceAssign` to namespace
+-   [`626a722`](https://github.com/stdlib-js/stdlib/commit/626a72285a5ee6a1528fa7f8d8268aafaf25f2a1) - add `ndslice` to namespace
+-   [`015c2d9`](https://github.com/stdlib-js/stdlib/commit/015c2d96d24591391526d19cf80b3e0356a923b7) - add `FancyArray` to namespace
+-   [`2eed6f3`](https://github.com/stdlib-js/stdlib/commit/2eed6f357a036f7df7ffdf9e06871a27d346bf78) - add `seq2slice` to namespace
+-   [`9d16b25`](https://github.com/stdlib-js/stdlib/commit/9d16b250cbee0b3fedf90b2c89a39a5d5fa02378) - add `isMultiSlice` to namespace
+-   [`794d9a7`](https://github.com/stdlib-js/stdlib/commit/794d9a7dcedc51b547ee8a7ba30d3207afc6d015) - add `MultiSlice` to namespace
+-   [`a68770b`](https://github.com/stdlib-js/stdlib/commit/a68770b91ac6d12ff5725a7452b72f18b8f894c7) - add `Slice` and `isSlice` to namespace
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6) - update minimum TypeScript version
+-   [`34b78a0`](https://github.com/stdlib-js/stdlib/commit/34b78a009d1138e99e29362ed92df4da6cbd55d9) - add `headercase` to namespace
+-   [`775c156`](https://github.com/stdlib-js/stdlib/commit/775c15690ed781b367c3a5b53af2701163c068d8) - add `base.forEachChar` to namespace
+-   [`a972d67`](https://github.com/stdlib-js/stdlib/commit/a972d672c273b615e4007e31a15994f5d75a9813) - add `base.forEachCodePoint` to namespace
+-   [`98ef4c5`](https://github.com/stdlib-js/stdlib/commit/98ef4c5c608719eaa4276c284788fce09b0d4ba0) - add `base.forEachGraphemeCluster` to namespace
+-   [`000b507`](https://github.com/stdlib-js/stdlib/commit/000b5070d98a064bdb002d92e268dcf9d7e5d822) - add `forEachChar` to namespace
+-   [`7caad0b`](https://github.com/stdlib-js/stdlib/commit/7caad0b8dfcc91e0bd7d744b3a492bf237671766) - add string utilities to namespace
+-   [`87620ba`](https://github.com/stdlib-js/stdlib/commit/87620ba2960b991ec82cac1c06b88260615f791e) - add `dotcase` to namespace
+-   [`8c05c4e`](https://github.com/stdlib-js/stdlib/commit/8c05c4e8b268fe642b4c40dd2bcaf3dd75898a49) - add `aemptyLike` to namespace
+-   [`334d7df`](https://github.com/stdlib-js/stdlib/commit/334d7df7d97173a3f3dd892e6c901384ae99b038) - add `ndemptyLike` to namespace
+-   [`309afe9`](https://github.com/stdlib-js/stdlib/commit/309afe98c1a0b10e1a48ad2c3f6cfdddef84c6d0) - add `ndempty` to namespace
+-   [`279b85c`](https://github.com/stdlib-js/stdlib/commit/279b85cf2cb6c2ef6099baeb00905e86e3030819) - add `aempty` to namespace
+-   [`a625e10`](https://github.com/stdlib-js/stdlib/commit/a625e1079e3725d7572c23b88c70b504bb17f538) - add `ndarray2array` to namespace
+-   [`f53f8ca`](https://github.com/stdlib-js/stdlib/commit/f53f8ca2da067cdad98191ec2ad4ee41747c3a36) - update namespace
+-   [`ad6ce88`](https://github.com/stdlib-js/stdlib/commit/ad6ce8861c649c575c5ba8090cd4ce4e7372149b) - update namespace
+-   [`7477ab8`](https://github.com/stdlib-js/stdlib/commit/7477ab893b38045b8a603ad120f04c7d5d925ccb) - update namespace
+-   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - update namespace
+-   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - update namespace
+-   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - update namespace
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version
+-   [`898e8e4`](https://github.com/stdlib-js/stdlib/commit/898e8e45b2ff0b16c3b7a04786f4e2577422f5b6): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
 -   [`d4f4054`](https://github.com/stdlib-js/stdlib/commit/d4f4054514d38adf19e568db4ac1fa1fa82d4cfc) - **feat:** add `nditerMatrixEntries` to namespace _(by Athan Reines)_
 -   [`6753c94`](https://github.com/stdlib-js/stdlib/commit/6753c94def0125d72a8ee715e5ca3d47e898d7ea) - **feat:** add `nditerColumnEntries` to namespace _(by Athan Reines)_
 -   [`0fc7b65`](https://github.com/stdlib-js/stdlib/commit/0fc7b650371ec13b355367702468d531c0eb4fac) - **feat:** add `nditerRowEntries` to namespace _(by Athan Reines)_
@@ -1997,6 +2133,270 @@ A total of 2 people contributed to this release. Thank you to the following cont
 -   [`23c8c4f`](https://github.com/stdlib-js/stdlib/commit/23c8c4f6e15948c544476097291dd0656f71780e) - **feat:** update namespace _(by Athan Reines)_
 -   [`1dd8c2c`](https://github.com/stdlib-js/stdlib/commit/1dd8c2cb9c9c4f8dc847c90a2c4f417cd540a1d3) - **feat:** update namespace _(by Athan Reines)_
 -   [`7de77db`](https://github.com/stdlib-js/stdlib/commit/7de77dbc53ae3c7c475ba834e2060ab2132025a1) - **feat:** update namespace _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.12 (2021-08-23)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.11 (2021-07-10)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.10 (2021-07-07)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.9 (2021-06-28)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.8 (2021-06-16)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.7 (2021-06-15)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.6 (2021-06-15)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.5 (2021-06-13)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.4 (2021-06-12)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.3 (2021-06-12)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.2 (2021-06-10)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+## 0.0.1 (2021-06-10)
+
+<section class="packages">
+
+### Packages
+
+</section>
+
+<!-- /.packages -->
+
+<section class="commits">
+
+### Commits
+
+<details>
 
 </details>
 
