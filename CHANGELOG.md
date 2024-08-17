@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-11)
+## Unreleased (2024-08-17)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -65,6 +66,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -103,6 +105,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -141,6 +144,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -179,6 +183,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -217,6 +222,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -255,6 +261,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -293,6 +300,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -331,6 +339,7 @@
 
 ##### Features
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - add `ndarraylike2ndarray` to namespace
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - add `nditerInterleaveSubarrays` to namespace
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - add `nditerStacks` to namespace
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - add `nditerSubarrays` to namespace
@@ -382,6 +391,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`febd8ae`](https://github.com/stdlib-js/stdlib/commit/febd8aef423c3723ef0cd4a04099faa609a38f51) - **feat:** add `ndarraylike2ndarray` to namespace _(by Athan Reines)_
 -   [`09ffebd`](https://github.com/stdlib-js/stdlib/commit/09ffebdfb9946b7e1dd3c05f58637fa073f0a121) - **feat:** add `nditerInterleaveSubarrays` to namespace _(by Athan Reines)_
 -   [`2939f56`](https://github.com/stdlib-js/stdlib/commit/2939f5662f4bc178fbe532579380d501ff7b1722) - **feat:** add `nditerStacks` to namespace _(by Athan Reines)_
 -   [`082324e`](https://github.com/stdlib-js/stdlib/commit/082324e5c0004e84a711debf81abebf755399f29) - **feat:** add `nditerSubarrays` to namespace _(by Athan Reines)_
