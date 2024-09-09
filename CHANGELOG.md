@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -42,6 +43,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -64,6 +66,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -86,6 +89,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -108,6 +112,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -130,6 +135,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -152,6 +158,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -174,6 +181,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -196,6 +204,7 @@
 
 ##### Features
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - add `isEqualArray` to namespace
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - add `isSameArrayLike` to namespace
 
 </section>
@@ -230,6 +239,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`9a87aca`](https://github.com/stdlib-js/stdlib/commit/9a87acae9646c4c790c1fab60aa1d2f496c18898) - **feat:** add `isEqualArray` to namespace _(by Athan Reines)_
 -   [`a4c2f06`](https://github.com/stdlib-js/stdlib/commit/a4c2f063712c20edd385b5182bd6f2cb5d58af33) - **feat:** add `isSameArrayLike` to namespace _(by Athan Reines)_
 
 </details>
