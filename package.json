@@ -75,7 +75,8 @@
     "@stdlib/string": "github:stdlib-js/string#main",
     "@stdlib/symbol": "github:stdlib-js/symbol#main",
     "@stdlib/time": "github:stdlib-js/time#main",
-    "@stdlib/utils": "github:stdlib-js/utils#main"
+    "@stdlib/utils": "github:stdlib-js/utils#main",
+    "@stdlib/wasm": "github:stdlib-js/wasm#main"
   },
   "devDependencies": {
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
