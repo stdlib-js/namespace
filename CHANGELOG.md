@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-09-20)
+## Unreleased (2024-09-27)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -47,6 +48,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -74,6 +76,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -101,6 +104,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -128,6 +132,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -155,6 +160,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -182,6 +188,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -209,6 +216,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -236,6 +244,7 @@
 
 ##### Features
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - add `isndarrayLikeWithDataType` to namespace
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - add `hasBtoaSupport` to namespace
@@ -275,6 +284,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`254fa9e`](https://github.com/stdlib-js/stdlib/commit/254fa9ec906b3a6c62551e13bd0aeef1c1f29af8) - **feat:** add `Float64ArrayLE`, `Float32ArrayLE`, `Float64ArrayFE`, and `Float32ArrayFE` to namespace _(by Athan Reines)_
 -   [`a215aba`](https://github.com/stdlib-js/stdlib/commit/a215aba7a01decc26f4d2ea7b7046dafc69ea96b) - **feat:** add `isndarrayLikeWithDataType` to namespace _(by Athan Reines)_
 -   [`8504393`](https://github.com/stdlib-js/stdlib/commit/85043930ff962e1c6393c55f7aa6d481b4ea2b81) - **feat:** add `isWebAssemblyMemory` and `WebAssemblyMemory` to namespace _(by Athan Reines)_
 -   [`83db58c`](https://github.com/stdlib-js/stdlib/commit/83db58c78ba649fc42033594017b7fbb6f68b105) - **feat:** add `hasBtoaSupport` to namespace _(by Athan Reines)_
