@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.3.3">
+
+## 0.3.3 (2024-11-05)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.2">
 
 ## 0.3.2 (2024-11-05)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="namespace-unreleased">
+<section class="package" id="namespace-v0.3.2">
 
 #### [@stdlib/namespace](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace)
 
@@ -38,7 +48,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="namespace-alias2pkg-unreleased">
+<section class="package" id="namespace-alias2pkg-v0.3.2">
 
 #### [@stdlib/namespace/alias2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2pkg)
 
@@ -66,7 +76,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="namespace-alias2related-unreleased">
+<section class="package" id="namespace-alias2related-v0.3.2">
 
 #### [@stdlib/namespace/alias2related](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2related)
 
@@ -94,7 +104,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="namespace-alias2standalone-unreleased">
+<section class="package" id="namespace-alias2standalone-v0.3.2">
 
 #### [@stdlib/namespace/alias2standalone](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2standalone)
 
@@ -122,7 +132,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="namespace-aliases-unreleased">
+<section class="package" id="namespace-aliases-v0.3.2">
 
 #### [@stdlib/namespace/aliases](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/aliases)
 
@@ -150,7 +160,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="namespace-pkg2alias-unreleased">
+<section class="package" id="namespace-pkg2alias-v0.3.2">
 
 #### [@stdlib/namespace/pkg2alias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2alias)
 
@@ -178,7 +188,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="namespace-pkg2related-unreleased">
+<section class="package" id="namespace-pkg2related-v0.3.2">
 
 #### [@stdlib/namespace/pkg2related](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2related)
 
@@ -206,7 +216,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="namespace-pkg2standalone-unreleased">
+<section class="package" id="namespace-pkg2standalone-v0.3.2">
 
 #### [@stdlib/namespace/pkg2standalone](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2standalone)
 
@@ -234,7 +244,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="namespace-standalone2pkg-unreleased">
+<section class="package" id="namespace-standalone2pkg-v0.3.2">
 
 #### [@stdlib/namespace/standalone2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/standalone2pkg)
 
