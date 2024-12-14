@@ -2,6 +2,246 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-12-14)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="namespace-unreleased">
+
+#### [@stdlib/namespace](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-alias2pkg-unreleased">
+
+#### [@stdlib/namespace/alias2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2pkg)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-alias2related-unreleased">
+
+#### [@stdlib/namespace/alias2related](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2related)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-alias2standalone-unreleased">
+
+#### [@stdlib/namespace/alias2standalone](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/alias2standalone)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-aliases-unreleased">
+
+#### [@stdlib/namespace/aliases](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/aliases)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-pkg2alias-unreleased">
+
+#### [@stdlib/namespace/pkg2alias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2alias)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-pkg2related-unreleased">
+
+#### [@stdlib/namespace/pkg2related](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2related)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-pkg2standalone-unreleased">
+
+#### [@stdlib/namespace/pkg2standalone](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/pkg2standalone)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="namespace-standalone2pkg-unreleased">
+
+#### [@stdlib/namespace/standalone2pkg](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/namespace/standalone2pkg)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - add `ndmap` and `ndfilter` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Athan Reines
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`b916456`](https://github.com/stdlib-js/stdlib/commit/b916456714e3c8a4ecaf6605adf4d36188e924f9) - **feat:** add `ndmap` and `ndfilter` to namespace _(by Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.3">
 
 ## 0.3.3 (2024-11-05)
