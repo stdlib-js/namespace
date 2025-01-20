@@ -252,10 +252,11 @@
 
 ### Contributors
 
-A total of 2 people contributed to this release. Thank you to the following contributors:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Philipp Burckhardt
+-   aayush0325
 
 </section>
 
@@ -267,6 +268,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`7fdd232`](https://github.com/stdlib-js/stdlib/commit/7fdd232cf5861d0f25fad1a23d05143211e84d92) - **refactor:** update paths _(by aayush0325)_
 -   [`2bbed30`](https://github.com/stdlib-js/stdlib/commit/2bbed3060f43e3d98cecff5c5b068a48f7f56d3d) - **docs:** update REPL namespace documentation [(#4810)](https://github.com/stdlib-js/stdlib/pull/4810) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`e0799e5`](https://github.com/stdlib-js/stdlib/commit/e0799e5da799e74ff3369f652f4380aeb8dfe7fc) - **refactor:** update paths _(by Athan Reines)_
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - **feat:** add ndarray APIs and float32 constants to namespace _(by Athan Reines)_
