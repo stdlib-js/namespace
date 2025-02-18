@@ -1063,7 +1063,7 @@
 "@stdlib/stats/strided/dmeankbn2",base.strided.dmeankbn2
 "@stdlib/stats/strided/dmeanli",base.strided.dmeanli
 "@stdlib/stats/strided/dmeanlipw",base.strided.dmeanlipw
-"@stdlib/stats/base/dmeanors",base.strided.dmeanors
+"@stdlib/stats/strided/dmeanors",base.strided.dmeanors
 "@stdlib/stats/base/dmeanpn",base.strided.dmeanpn
 "@stdlib/stats/base/dmeanpw",base.strided.dmeanpw
 "@stdlib/stats/base/dmeanstdev",base.strided.dmeanstdev
