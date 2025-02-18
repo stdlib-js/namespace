@@ -1065,7 +1065,7 @@
 "@stdlib/stats/strided/dmeanlipw",base.strided.dmeanlipw
 "@stdlib/stats/strided/dmeanors",base.strided.dmeanors
 "@stdlib/stats/base/dmeanpn",base.strided.dmeanpn
-"@stdlib/stats/base/dmeanpw",base.strided.dmeanpw
+"@stdlib/stats/strided/dmeanpw",base.strided.dmeanpw
 "@stdlib/stats/base/dmeanstdev",base.strided.dmeanstdev
 "@stdlib/stats/base/dmeanstdevpn",base.strided.dmeanstdevpn
 "@stdlib/stats/base/dmeanvar",base.strided.dmeanvar
