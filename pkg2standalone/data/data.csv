@@ -883,7 +883,7 @@
 "@stdlib/math/base/special/minmaxn","@stdlib/math-base-special-minmaxn"
 "@stdlib/math/base/special/minn","@stdlib/math-base-special-minn"
 "@stdlib/math/base/special/modf","@stdlib/math-base-special-modf"
-"@stdlib/math/base/ops/mul","@stdlib/math-base-ops-mul"
+"@stdlib/number/float64/base/mul","@stdlib/math-base-ops-mul"
 "@stdlib/math/base/ops/mulf","@stdlib/math-base-ops-mulf"
 "@stdlib/ndarray/base/ctor","@stdlib/ndarray-base-ctor"
 "@stdlib/ndarray/base/unary","@stdlib/ndarray-base-unary"
