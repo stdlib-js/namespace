@@ -1070,7 +1070,7 @@
 "@stdlib/stats/base/dmeanstdevpn","@stdlib/stats-base-dmeanstdevpn"
 "@stdlib/stats/base/dmeanvar","@stdlib/stats-base-dmeanvar"
 "@stdlib/stats/base/dmeanvarpn","@stdlib/stats-base-dmeanvarpn"
-"@stdlib/stats/base/dmeanwd","@stdlib/stats-base-dmeanwd"
+"@stdlib/stats/strided/dmeanwd","@stdlib/stats-base-dmeanwd"
 "@stdlib/stats/base/dmediansorted","@stdlib/stats-base-dmediansorted"
 "@stdlib/stats/base/dmidrange","@stdlib/stats-base-dmidrange"
 "@stdlib/stats/base/dmin","@stdlib/stats-base-dmin"
