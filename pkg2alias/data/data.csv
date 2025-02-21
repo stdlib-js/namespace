@@ -1095,7 +1095,7 @@
 "@stdlib/blas/ext/base/dnanasum",base.strided.dnanasum
 "@stdlib/blas/ext/base/dnanasumors",base.strided.dnanasumors
 "@stdlib/stats/strided/dnanmax",base.strided.dnanmax
-"@stdlib/stats/base/dnanmaxabs",base.strided.dnanmaxabs
+"@stdlib/stats/strided/dnanmaxabs",base.strided.dnanmaxabs
 "@stdlib/stats/base/dnanmean",base.strided.dnanmean
 "@stdlib/stats/base/dnanmeanors",base.strided.dnanmeanors
 "@stdlib/stats/base/dnanmeanpn",base.strided.dnanmeanpn
