@@ -1094,7 +1094,7 @@
 "@stdlib/math/strided/special/dmsktrunc","@stdlib/math-strided-special-dmsktrunc"
 "@stdlib/blas/ext/base/dnanasum","@stdlib/blas-ext-base-dnanasum"
 "@stdlib/blas/ext/base/dnanasumors","@stdlib/blas-ext-base-dnanasumors"
-"@stdlib/stats/base/dnanmax","@stdlib/stats-base-dnanmax"
+"@stdlib/stats/strided/dnanmax","@stdlib/stats-base-dnanmax"
 "@stdlib/stats/base/dnanmaxabs","@stdlib/stats-base-dnanmaxabs"
 "@stdlib/stats/base/dnanmean","@stdlib/stats-base-dnanmean"
 "@stdlib/stats/base/dnanmeanors","@stdlib/stats-base-dnanmeanors"
