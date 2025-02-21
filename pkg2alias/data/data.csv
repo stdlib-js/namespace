@@ -1454,7 +1454,7 @@
 "@stdlib/strided/base/zmap",base.strided.zmap
 "@stdlib/slice/base/str2multislice",base.str2multislice
 "@stdlib/slice/base/str2slice",base.str2slice
-"@stdlib/math/base/ops/sub",base.sub
+"@stdlib/number/float64/base/sub",base.sub
 "@stdlib/math/base/ops/subf",base.subf
 "@stdlib/math/base/tools/sum-series",base.sumSeries
 "@stdlib/math/base/special/tan",base.tan
