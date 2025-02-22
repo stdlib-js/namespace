@@ -245,7 +245,7 @@
 "@stdlib/math/base/special/digamma",base.digamma
 "@stdlib/math/base/special/dirac-delta",base.diracDelta
 "@stdlib/number/float64/base/div",base.div
-"@stdlib/math/base/ops/divf",base.divf
+"@stdlib/number/float32/base/div",base.divf
 "@stdlib/string/base/dotcase",base.dotcase
 "@stdlib/stats/base/dists/arcsine/ctor",base.dists.arcsine.Arcsine
 "@stdlib/stats/base/dists/arcsine/cdf",base.dists.arcsine.cdf
