@@ -50,6 +50,7 @@
     "@stdlib/complex": "github:stdlib-js/complex#main",
     "@stdlib/constants": "github:stdlib-js/constants#main",
     "@stdlib/datasets": "github:stdlib-js/datasets#main",
+    "@stdlib/dstructs": "github:stdlib-js/dstructs#main",
     "@stdlib/error": "github:stdlib-js/error#main",
     "@stdlib/fs": "github:stdlib-js/fs#main",
     "@stdlib/function": "github:stdlib-js/function#main",
