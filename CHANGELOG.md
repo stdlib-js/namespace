@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-06)
+## Unreleased (2025-03-08)
 
 <section class="packages">
 
@@ -339,8 +339,10 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`a63fd20`](https://github.com/stdlib-js/stdlib/commit/a63fd20246bf236df0becdac7c4301587dc98858) - **docs:** update REPL help _(by Athan Reines)_
 -   [`050e88a`](https://github.com/stdlib-js/stdlib/commit/050e88a13d764ad95483a038f2b36761fea8acda) - **docs:** update REPL namespace documentation [(#5817)](https://github.com/stdlib-js/stdlib/pull/5817) _(by stdlib-bot)_
 -   [`e644a6e`](https://github.com/stdlib-js/stdlib/commit/e644a6ef491f282b46a90b668090533ea9b002b6) - **refactor:** update paths _(by Aayush Khanna)_
+-   [`2540748`](https://github.com/stdlib-js/stdlib/commit/2540748e5850b4f7e8268904faeec1f2e9cb7bfd) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`fd6d830`](https://github.com/stdlib-js/stdlib/commit/fd6d8300eddef5b383a5f6e0973ce8e1893f549b) - **docs:** update REPL namespace documentation [(#5512)](https://github.com/stdlib-js/stdlib/pull/5512) _(by stdlib-bot)_
 -   [`5260d13`](https://github.com/stdlib-js/stdlib/commit/5260d1347c8cd3f669d47dabe8cc6f954809bb27) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`d1daf0e`](https://github.com/stdlib-js/stdlib/commit/d1daf0ef7f15880288219730e7064f535b0dfba5) - **fix:** update path _(by Athan Reines)_
