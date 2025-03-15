@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-14)
+## Unreleased (2025-03-15)
 
 <section class="packages">
 
@@ -339,6 +339,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`b82d76a`](https://github.com/stdlib-js/stdlib/commit/b82d76a7c53b7386d2a9db84e217900c16fdfee7) - **docs:** update REPL namespace documentation [(#6059)](https://github.com/stdlib-js/stdlib/pull/6059) _(by stdlib-bot)_
 -   [`bde09b5`](https://github.com/stdlib-js/stdlib/commit/bde09b5464e1faab4b01b03509626755c661db20) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`adef168`](https://github.com/stdlib-js/stdlib/commit/adef168dccaecd20560002341c76e9bb06794c6d) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`e4f76e7`](https://github.com/stdlib-js/stdlib/commit/e4f76e75ff13f723a5e8d483e315e13e76854cff) - **docs:** update REPL namespace documentation [(#6009)](https://github.com/stdlib-js/stdlib/pull/6009) _(by stdlib-bot, Philipp Burckhardt)_
