@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-03-23)
 
 <section class="packages">
 
@@ -20,6 +20,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -57,6 +58,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -94,6 +96,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -121,6 +124,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -158,6 +162,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -185,6 +190,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -222,6 +228,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -259,6 +266,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -296,6 +304,7 @@
 
 ##### Features
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
 -   [`6f2d513`](https://github.com/stdlib-js/stdlib/commit/6f2d513c914a3b92bb202cd0e9527b8b734da65d) - add `ndarray2json` to namespace
@@ -348,6 +357,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - **feat:** add `ndfillBy` to namespace _(by Athan Reines)_
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - **feat:** add `ndfill` to namespace _(by Athan Reines)_
 -   [`60310a4`](https://github.com/stdlib-js/stdlib/commit/60310a466ebe2a37ab66135c59cc880ca3183ade) - **docs:** fix related package _(by Athan Reines)_
 -   [`84a8fa9`](https://github.com/stdlib-js/stdlib/commit/84a8fa9039d1f48fe8bd20d137fba03134607c7c) - **docs:** update REPL namespace documentation [(#6217)](https://github.com/stdlib-js/stdlib/pull/6217) _(by stdlib-bot)_
