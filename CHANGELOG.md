@@ -357,6 +357,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`c2ee169`](https://github.com/stdlib-js/stdlib/commit/c2ee169a71977594604e516b49c6c5e67e4347e6) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`1d8b212`](https://github.com/stdlib-js/stdlib/commit/1d8b2124adec6be1f3d639ab0b53146a7539f243) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`689e378`](https://github.com/stdlib-js/stdlib/commit/689e3782f9f61f28f58c7d6ea2c3147ee561b589) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`333c7a3`](https://github.com/stdlib-js/stdlib/commit/333c7a3c63d7b1f2ee4a227b3f031675bce33094) - **refactor:** update paths _(by Aayush Khanna)_
