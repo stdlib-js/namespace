@@ -357,6 +357,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`eac37fb`](https://github.com/stdlib-js/stdlib/commit/eac37fba6f024c71566c6eb9fb37210318d929a3) - **docs:** update REPL namespace documentation [(#6449)](https://github.com/stdlib-js/stdlib/pull/6449) _(by stdlib-bot)_
 -   [`c1d3885`](https://github.com/stdlib-js/stdlib/commit/c1d3885204c3351bc3298b2f7c18b4003ae060df) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`ac97159`](https://github.com/stdlib-js/stdlib/commit/ac97159d577a2aa1550daf19dfb7c146dfd7bcef) - **refactor:** update paths _(by Aayush Khanna)_
 -   [`3c365a3`](https://github.com/stdlib-js/stdlib/commit/3c365a32a445435156730a7c7dd0c1d3b879f810) - **refactor:** update paths _(by Aayush Khanna)_
