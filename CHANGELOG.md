@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`0f93855`](https://github.com/stdlib-js/stdlib/commit/0f9385513f5a3deb36b7b5d3e66fd7d4c36950a8) - add `base.acotdf` to namespace
 -   [`533d3a3`](https://github.com/stdlib-js/stdlib/commit/533d3a3130771e3999c89e86912335ec035bb562) - add `base.acosdf` to namespace
 -   [`0af8e79`](https://github.com/stdlib-js/stdlib/commit/0af8e794a72c54ded432906221787a69cbc66220) - add `base.cinvf` to namespace
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
@@ -52,6 +53,7 @@
 
 <details>
 
+-   [`0f93855`](https://github.com/stdlib-js/stdlib/commit/0f9385513f5a3deb36b7b5d3e66fd7d4c36950a8) - **feat:** add `base.acotdf` to namespace _(by Athan Reines)_
 -   [`533d3a3`](https://github.com/stdlib-js/stdlib/commit/533d3a3130771e3999c89e86912335ec035bb562) - **feat:** add `base.acosdf` to namespace _(by Athan Reines)_
 -   [`0af8e79`](https://github.com/stdlib-js/stdlib/commit/0af8e794a72c54ded432906221787a69cbc66220) - **feat:** add `base.cinvf` to namespace _(by Athan Reines)_
 -   [`021eb13`](https://github.com/stdlib-js/stdlib/commit/021eb13dce7e7c359ec262d0d37cce210deef3a7) - **refactor:** update paths _(by Gururaj Gurram)_
