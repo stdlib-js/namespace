@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-05)
+## Unreleased (2025-06-06)
 
 <section class="features">
 
 ### Features
 
+-   [`0af8e79`](https://github.com/stdlib-js/stdlib/commit/0af8e794a72c54ded432906221787a69cbc66220) - add `base.cinvf` to namespace
 -   [`27ace7d`](https://github.com/stdlib-js/stdlib/commit/27ace7d0555fdbd7af3b0ecb1787718c8c84c0f2) - add `ndfillBy` to namespace
 -   [`54a7d5c`](https://github.com/stdlib-js/stdlib/commit/54a7d5cc20b27a462948c69eb330024caf115ed7) - add `ndfill` to namespace
 -   [`7d8aba0`](https://github.com/stdlib-js/stdlib/commit/7d8aba04d7513814f09d725b81c0f953ad4c3b7f) - add ndarray APIs and float32 constants to namespace
@@ -50,6 +51,7 @@
 
 <details>
 
+-   [`0af8e79`](https://github.com/stdlib-js/stdlib/commit/0af8e794a72c54ded432906221787a69cbc66220) - **feat:** add `base.cinvf` to namespace _(by Athan Reines)_
 -   [`021eb13`](https://github.com/stdlib-js/stdlib/commit/021eb13dce7e7c359ec262d0d37cce210deef3a7) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`6665951`](https://github.com/stdlib-js/stdlib/commit/66659512747686f55bd8e8c0420f8a1d8131a221) - **docs:** update REPL namespace documentation [(#7221)](https://github.com/stdlib-js/stdlib/pull/7221) _(by stdlib-bot)_
 -   [`744337a`](https://github.com/stdlib-js/stdlib/commit/744337aaebfd4a9631f17765bce57a38c5374173) - **refactor:** update paths _(by Gururaj Gurram)_
