@@ -53,6 +53,7 @@
 
 <details>
 
+-   [`855d4a6`](https://github.com/stdlib-js/stdlib/commit/855d4a65217504b0e032ae90df8fbdaf7b98e1f1) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`fe52935`](https://github.com/stdlib-js/stdlib/commit/fe52935c933cce3e5550436a283495fb1dec0898) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`7d29148`](https://github.com/stdlib-js/stdlib/commit/7d29148daa701a3113e72a901fd5096d2a5da4d1) - **docs:** update REPL namespace documentation [(#7232)](https://github.com/stdlib-js/stdlib/pull/7232) _(by stdlib-bot)_
 -   [`0f93855`](https://github.com/stdlib-js/stdlib/commit/0f9385513f5a3deb36b7b5d3e66fd7d4c36950a8) - **feat:** add `base.acotdf` to namespace _(by Athan Reines)_
