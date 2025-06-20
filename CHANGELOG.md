@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-18)
+## Unreleased (2025-06-20)
 
 <section class="features">
 
 ### Features
 
+-   [`840c6e8`](https://github.com/stdlib-js/stdlib/commit/840c6e824a40409e0717b6ea5c002476dd462460) - add `structFactory` to namespace
 -   [`0f93855`](https://github.com/stdlib-js/stdlib/commit/0f9385513f5a3deb36b7b5d3e66fd7d4c36950a8) - add `base.acotdf` to namespace
 -   [`533d3a3`](https://github.com/stdlib-js/stdlib/commit/533d3a3130771e3999c89e86912335ec035bb562) - add `base.acosdf` to namespace
 -   [`0af8e79`](https://github.com/stdlib-js/stdlib/commit/0af8e794a72c54ded432906221787a69cbc66220) - add `base.cinvf` to namespace
@@ -53,6 +54,7 @@
 
 <details>
 
+-   [`840c6e8`](https://github.com/stdlib-js/stdlib/commit/840c6e824a40409e0717b6ea5c002476dd462460) - **feat:** add `structFactory` to namespace _(by Athan Reines)_
 -   [`901fbca`](https://github.com/stdlib-js/stdlib/commit/901fbca03d9e97bcdde31dac16bc395a97a99108) - **docs:** update REPL namespace documentation [(#7379)](https://github.com/stdlib-js/stdlib/pull/7379) _(by stdlib-bot)_
 -   [`ab75e22`](https://github.com/stdlib-js/stdlib/commit/ab75e229c58f150da20f42d7f2448e63d1939401) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`1a6ec86`](https://github.com/stdlib-js/stdlib/commit/1a6ec86b91682b715cc8b37de186e7179ff0f370) - **docs:** update REPL namespace documentation [(#7363)](https://github.com/stdlib-js/stdlib/pull/7363) _(by stdlib-bot, Philipp Burckhardt)_
