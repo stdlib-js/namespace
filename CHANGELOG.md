@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-20)
+## Unreleased (2025-06-21)
 
 <section class="features">
 
@@ -54,6 +54,7 @@
 
 <details>
 
+-   [`bb4c5ac`](https://github.com/stdlib-js/stdlib/commit/bb4c5acb86f6acbae8579ab5f45e161a0c984dd8) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`840c6e8`](https://github.com/stdlib-js/stdlib/commit/840c6e824a40409e0717b6ea5c002476dd462460) - **feat:** add `structFactory` to namespace _(by Athan Reines)_
 -   [`901fbca`](https://github.com/stdlib-js/stdlib/commit/901fbca03d9e97bcdde31dac16bc395a97a99108) - **docs:** update REPL namespace documentation [(#7379)](https://github.com/stdlib-js/stdlib/pull/7379) _(by stdlib-bot)_
 -   [`ab75e22`](https://github.com/stdlib-js/stdlib/commit/ab75e229c58f150da20f42d7f2448e63d1939401) - **refactor:** update paths _(by Gururaj Gurram)_
