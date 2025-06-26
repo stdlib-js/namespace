@@ -1620,7 +1620,7 @@
 "@stdlib/utils/every-by-right",everyByRight
 "@stdlib/utils/async/every-by-right",everyByRightAsync
 "@stdlib/object/every-in-by",everyInBy
-"@stdlib/utils/every-own-by",everyOwnBy
+"@stdlib/object/every-own-by",everyOwnBy
 "@stdlib/utils/eval",evil
 "@stdlib/process/exec-path",EXEC_PATH
 "@stdlib/fs/exists",exists
