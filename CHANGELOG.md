@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-24)
+## Unreleased (2025-06-26)
 
 <section class="features">
 
@@ -55,6 +55,7 @@
 
 <details>
 
+-   [`d75485f`](https://github.com/stdlib-js/stdlib/commit/d75485f66a9349a4f30483574f12fa839e5462d8) - **chore:** remove self-reference _(by Athan Reines)_
 -   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - **feat:** add `isStruct` and `isStructConstructorLike` to namespace _(by Athan Reines)_
 -   [`fe87ef3`](https://github.com/stdlib-js/stdlib/commit/fe87ef3f1d320867b195765cd1aec7800270e33e) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`88d22d6`](https://github.com/stdlib-js/stdlib/commit/88d22d6c0f3bbb65f3882c784e8b8069785398a5) - **refactor:** update paths _(by Gururaj Gurram)_
