@@ -2640,7 +2640,7 @@
 "@stdlib/utils/async/none-by",noneByAsync
 "@stdlib/utils/none-by-right",noneByRight
 "@stdlib/utils/async/none-by-right",noneByRightAsync
-"@stdlib/utils/none-in-by",noneInBy
+"@stdlib/object/none-in-by",noneInBy
 "@stdlib/utils/nonenumerable-properties",nonEnumerableProperties
 "@stdlib/utils/nonenumerable-properties-in",nonEnumerablePropertiesIn
 "@stdlib/utils/nonenumerable-property-names",nonEnumerablePropertyNames
