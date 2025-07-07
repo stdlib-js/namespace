@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-03)
+## Unreleased (2025-07-07)
 
 <section class="features">
 
@@ -55,6 +55,10 @@
 
 <details>
 
+-   [`ffbc889`](https://github.com/stdlib-js/stdlib/commit/ffbc88901427ca5ceaf0d4cc557facd4865eba90) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`4075997`](https://github.com/stdlib-js/stdlib/commit/407599734ccf26438febd9e8712fdb7c97cf9bd8) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`3c776ed`](https://github.com/stdlib-js/stdlib/commit/3c776ed5458e453e0fa0135a9b689fc54602af4a) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`5bd5488`](https://github.com/stdlib-js/stdlib/commit/5bd548843a24ec44599e26ac68f15fe70fcf70eb) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`3687841`](https://github.com/stdlib-js/stdlib/commit/368784150862d1c765db9742297b6fa6cfa3a8fa) - **docs:** update REPL namespace documentation [(#7551)](https://github.com/stdlib-js/stdlib/pull/7551) _(by stdlib-bot)_
 -   [`f3bab2e`](https://github.com/stdlib-js/stdlib/commit/f3bab2e7582cd325e0ef3ff8db976d43f330e417) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`2e3121e`](https://github.com/stdlib-js/stdlib/commit/2e3121ef5d08bfa8cca4be5ed133e9ec62a8c7a5) - **refactor:** update paths _(by Gururaj Gurram)_
