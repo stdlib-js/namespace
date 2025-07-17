@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-15)
+## Unreleased (2025-07-17)
 
 <section class="features">
 
@@ -55,6 +55,12 @@
 
 <details>
 
+-   [`599039a`](https://github.com/stdlib-js/stdlib/commit/599039a0832889aaec19083e6d918e519edddb00) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`3e5f087`](https://github.com/stdlib-js/stdlib/commit/3e5f087480788b58307242117587a8564114519f) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`61c4728`](https://github.com/stdlib-js/stdlib/commit/61c4728812031ccccd496101dd7a87d13782b562) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`680b881`](https://github.com/stdlib-js/stdlib/commit/680b8812b7444a45b2d92c2c1c55ce29ab2366a4) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`2dc1303`](https://github.com/stdlib-js/stdlib/commit/2dc13030ffbb6ce3701cfdbb8fab4b648fe37fc4) - **refactor:** update paths _(by Gururaj Gurram)_
+-   [`ba4ee56`](https://github.com/stdlib-js/stdlib/commit/ba4ee5616dfe77f6c5254024aab2b8183f2c4232) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`91644d7`](https://github.com/stdlib-js/stdlib/commit/91644d75ed97a53e422349d58c0d270e7f796347) - **docs:** update REPL namespace documentation [(#7663)](https://github.com/stdlib-js/stdlib/pull/7663) _(by stdlib-bot)_
 -   [`028d338`](https://github.com/stdlib-js/stdlib/commit/028d338ec185c667fb62c8dafe7011a60287ad3a) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`8c107ba`](https://github.com/stdlib-js/stdlib/commit/8c107ba16d7d2b6e4a37fc8fbbdf54553385414c) - **refactor:** update paths _(by Gururaj Gurram)_
