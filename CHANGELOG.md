@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-07-22)
+## Unreleased (2025-08-16)
 
 <section class="features">
 
@@ -55,6 +55,9 @@
 
 <details>
 
+-   [`4f8ce2c`](https://github.com/stdlib-js/stdlib/commit/4f8ce2ccafe560926b010ef94eb423a137f9f3d2) - **refactor:** rename alias _(by Athan Reines)_
+-   [`7add020`](https://github.com/stdlib-js/stdlib/commit/7add0201c13e56a0381926ccfd4073c84eaf2ed4) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
+-   [`11581aa`](https://github.com/stdlib-js/stdlib/commit/11581aaca8c3cb824cbb92c0c0f80e76890bdb20) - **test:** use standardized assertion messages and fix lint errors _(by Philipp Burckhardt)_
 -   [`ceb1263`](https://github.com/stdlib-js/stdlib/commit/ceb12637184a5fa6e6fed6af39512250938d084d) - **docs:** update REPL namespace documentation [(#7718)](https://github.com/stdlib-js/stdlib/pull/7718) _(by stdlib-bot)_
 -   [`07d7a23`](https://github.com/stdlib-js/stdlib/commit/07d7a2388a8916c3f70c18abcc51b4086898bb1a) - **refactor:** update paths _(by Gururaj Gurram)_
 -   [`fb392ac`](https://github.com/stdlib-js/stdlib/commit/fb392ac4d71e19a7c67a55e896b02f37f2532895) - **refactor:** update paths _(by Gururaj Gurram)_
