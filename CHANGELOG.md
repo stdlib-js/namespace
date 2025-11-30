@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-11-29)
+## Unreleased (2025-11-30)
 
 <section class="features">
 
@@ -56,6 +56,7 @@
 
 <details>
 
+-   [`ff3ffda`](https://github.com/stdlib-js/stdlib/commit/ff3ffda7de5f780a240d5e4a385d3ac791b7deb4) - **docs:** update REPL namespace documentation [(#8638)](https://github.com/stdlib-js/stdlib/pull/8638) _(by stdlib-bot)_
 -   [`6ea3fff`](https://github.com/stdlib-js/stdlib/commit/6ea3fff1850167852dc0ea18003c1e0209d70335) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`b2dd31c`](https://github.com/stdlib-js/stdlib/commit/b2dd31c868ab2cc9d77f035b29de48e741fcc52b) - **chore:** fix main entry field in `package.json` _(by Philipp Burckhardt)_
 -   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - **feat:** add `DataType` to namespace _(by Athan Reines)_
