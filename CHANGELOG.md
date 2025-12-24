@@ -56,6 +56,7 @@
 
 <details>
 
+-   [`fbea12f`](https://github.com/stdlib-js/stdlib/commit/fbea12f6b9bda1fce997175ca3eaf574a89beb59) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`4da8286`](https://github.com/stdlib-js/stdlib/commit/4da8286a1b39013b9f05d0c97c00a757f22d624d) - **docs:** update REPL namespace documentation [(#9336)](https://github.com/stdlib-js/stdlib/pull/9336) _(by stdlib-bot)_
 -   [`fe5ba4b`](https://github.com/stdlib-js/stdlib/commit/fe5ba4bf6b2e9d765c9af3d26266d5fa64e39a95) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`34acd50`](https://github.com/stdlib-js/stdlib/commit/34acd50e974ab436c6d55088078a52c0a1514598) - **docs:** update REPL namespace documentation [(#9303)](https://github.com/stdlib-js/stdlib/pull/9303) _(by stdlib-bot)_
