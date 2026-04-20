@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-11)
+## Unreleased (2026-04-20)
 
 <section class="features">
 
@@ -56,6 +56,7 @@
 
 <details>
 
+-   [`5f66caa`](https://github.com/stdlib-js/stdlib/commit/5f66caa1eee481c3a6a560b6f2cd6b8e20b3a37b) - **bench:** refactor to use string interpolation in `namespace` [(#11606)](https://github.com/stdlib-js/stdlib/pull/11606) _(by Karan Anand)_
 -   [`359927e`](https://github.com/stdlib-js/stdlib/commit/359927e885c436eec620032dd44ede85b96ab11b) - **docs:** update REPL namespace documentation [(#9758)](https://github.com/stdlib-js/stdlib/pull/9758) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`fb171e3`](https://github.com/stdlib-js/stdlib/commit/fb171e313f8973bd4cd7d873f89f8b248b2cf14e) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`e882812`](https://github.com/stdlib-js/stdlib/commit/e882812a788d6648dd848e9e5667a11a1878bb3d) - **docs:** update REPL namespace documentation [(#9689)](https://github.com/stdlib-js/stdlib/pull/9689) _(by stdlib-bot, Philipp Burckhardt)_
@@ -405,11 +406,12 @@
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Gururaj Gurram
+-   Karan Anand
 -   Neeraj Pathak
 -   Philipp Burckhardt
 
