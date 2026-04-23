@@ -4,12 +4,15 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-20)
+## Unreleased (2026-04-23)
 
 <section class="features">
 
 ### Features
 
+-   [`bbf3780`](https://github.com/stdlib-js/stdlib/commit/bbf378093dd0cbdfd894ab52f6512eeaf83f6847) - add `Complex128Vector` and `Complex64Vector` to namespace
+-   [`672031e`](https://github.com/stdlib-js/stdlib/commit/672031e3e142c3b783b122d494e0e90bfb7282b6) - add `Float32Vector` and `vector` to namespace
+-   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - add `Float64Vector` to namespace
 -   [`1b05ca5`](https://github.com/stdlib-js/stdlib/commit/1b05ca522641ddeab925abf6c9d29078c2b0a788) - add `DataType` to namespace
 -   [`d2f83a4`](https://github.com/stdlib-js/stdlib/commit/d2f83a48fa6f6dc3ce8898853e10f557ae5aad1f) - add `isStruct` and `isStructConstructorLike` to namespace
 -   [`840c6e8`](https://github.com/stdlib-js/stdlib/commit/840c6e824a40409e0717b6ea5c002476dd462460) - add `structFactory` to namespace
@@ -56,6 +59,9 @@
 
 <details>
 
+-   [`bbf3780`](https://github.com/stdlib-js/stdlib/commit/bbf378093dd0cbdfd894ab52f6512eeaf83f6847) - **feat:** add `Complex128Vector` and `Complex64Vector` to namespace _(by Athan Reines)_
+-   [`672031e`](https://github.com/stdlib-js/stdlib/commit/672031e3e142c3b783b122d494e0e90bfb7282b6) - **feat:** add `Float32Vector` and `vector` to namespace _(by Athan Reines)_
+-   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - **feat:** add `Float64Vector` to namespace _(by Athan Reines)_
 -   [`5f66caa`](https://github.com/stdlib-js/stdlib/commit/5f66caa1eee481c3a6a560b6f2cd6b8e20b3a37b) - **bench:** refactor to use string interpolation in `namespace` [(#11606)](https://github.com/stdlib-js/stdlib/pull/11606) _(by Karan Anand)_
 -   [`359927e`](https://github.com/stdlib-js/stdlib/commit/359927e885c436eec620032dd44ede85b96ab11b) - **docs:** update REPL namespace documentation [(#9758)](https://github.com/stdlib-js/stdlib/pull/9758) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`fb171e3`](https://github.com/stdlib-js/stdlib/commit/fb171e313f8973bd4cd7d873f89f8b248b2cf14e) - **refactor:** update paths _(by Neeraj Pathak)_
