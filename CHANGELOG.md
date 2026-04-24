@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-04-23)
+## Unreleased (2026-04-24)
 
 <section class="features">
 
@@ -59,6 +59,7 @@
 
 <details>
 
+-   [`07dd7da`](https://github.com/stdlib-js/stdlib/commit/07dd7da4d498d76b380b741fa3ea135f46861dbd) - **docs:** update REPL namespace documentation [(#11753)](https://github.com/stdlib-js/stdlib/pull/11753) _(by stdlib-bot)_
 -   [`bbf3780`](https://github.com/stdlib-js/stdlib/commit/bbf378093dd0cbdfd894ab52f6512eeaf83f6847) - **feat:** add `Complex128Vector` and `Complex64Vector` to namespace _(by Athan Reines)_
 -   [`672031e`](https://github.com/stdlib-js/stdlib/commit/672031e3e142c3b783b122d494e0e90bfb7282b6) - **feat:** add `Float32Vector` and `vector` to namespace _(by Athan Reines)_
 -   [`59c3bbc`](https://github.com/stdlib-js/stdlib/commit/59c3bbc847a87bed87718e63d1cc5ffcbd516d6d) - **feat:** add `Float64Vector` to namespace _(by Athan Reines)_
