@@ -10,6 +10,9 @@
 
 ### Features
 
+-   [`67382e1`](https://github.com/stdlib-js/stdlib/commit/67382e1fa3073d0cd5bfdba88e9ae7b61fe61b89) - add top-level `random.*` symbols to namespace
+-   [`ed859e6`](https://github.com/stdlib-js/stdlib/commit/ed859e6a91a865638a312e0c5db6b96f328f0178) - add `*Vector` symbols to namespace
+-   [`3198cb8`](https://github.com/stdlib-js/stdlib/commit/3198cb8a04d95ec673c694c241739264be5c79ef) - add `Float16Array` to namespace
 -   [`c6757e6`](https://github.com/stdlib-js/stdlib/commit/c6757e608b06be01d08b3954c092d9c586376bdf) - add `UintXXVector` symbols to namespace
 -   [`bbf3780`](https://github.com/stdlib-js/stdlib/commit/bbf378093dd0cbdfd894ab52f6512eeaf83f6847) - add `Complex128Vector` and `Complex64Vector` to namespace
 -   [`672031e`](https://github.com/stdlib-js/stdlib/commit/672031e3e142c3b783b122d494e0e90bfb7282b6) - add `Float32Vector` and `vector` to namespace
@@ -60,6 +63,9 @@
 
 <details>
 
+-   [`67382e1`](https://github.com/stdlib-js/stdlib/commit/67382e1fa3073d0cd5bfdba88e9ae7b61fe61b89) - **feat:** add top-level `random.*` symbols to namespace _(by Athan Reines)_
+-   [`ed859e6`](https://github.com/stdlib-js/stdlib/commit/ed859e6a91a865638a312e0c5db6b96f328f0178) - **feat:** add `*Vector` symbols to namespace _(by Athan Reines)_
+-   [`3198cb8`](https://github.com/stdlib-js/stdlib/commit/3198cb8a04d95ec673c694c241739264be5c79ef) - **feat:** add `Float16Array` to namespace _(by Athan Reines)_
 -   [`1b392bd`](https://github.com/stdlib-js/stdlib/commit/1b392bdb5d3316f569af43bfbb4faef088602579) - **docs:** update REPL namespace documentation [(#12035)](https://github.com/stdlib-js/stdlib/pull/12035) _(by stdlib-bot)_
 -   [`c6757e6`](https://github.com/stdlib-js/stdlib/commit/c6757e608b06be01d08b3954c092d9c586376bdf) - **feat:** add `UintXXVector` symbols to namespace _(by Athan Reines)_
 -   [`07dd7da`](https://github.com/stdlib-js/stdlib/commit/07dd7da4d498d76b380b741fa3ea135f46861dbd) - **docs:** update REPL namespace documentation [(#11753)](https://github.com/stdlib-js/stdlib/pull/11753) _(by stdlib-bot)_
