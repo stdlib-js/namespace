@@ -63,6 +63,7 @@
 
 <details>
 
+-   [`65f9d6f`](https://github.com/stdlib-js/stdlib/commit/65f9d6fd963809f82e54cdfd06ed15e15b51525e) - **refactor:** align `ndarray/*` errors and remove `namespace` self-ref [(#12102)](https://github.com/stdlib-js/stdlib/pull/12102) _(by Philipp Burckhardt)_
 -   [`3a3c5c2`](https://github.com/stdlib-js/stdlib/commit/3a3c5c2edff808cd3a5d74390b3ce4d59853155c) - **docs:** update REPL namespace documentation [(#12099)](https://github.com/stdlib-js/stdlib/pull/12099) _(by stdlib-bot)_
 -   [`c77fbd9`](https://github.com/stdlib-js/stdlib/commit/c77fbd9a0ea702e373b40173007fcb4c0639c24e) - **refactor:** align `ndarray/base/diagonal` error message and remove `namespace` self-refs [(#12096)](https://github.com/stdlib-js/stdlib/pull/12096) _(by Philipp Burckhardt, Athan Reines)_
 -   [`64f925e`](https://github.com/stdlib-js/stdlib/commit/64f925e5d31880233d25e9ff7376b84478d68e63) - **docs:** update REPL docs _(by Athan Reines)_
