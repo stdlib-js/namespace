@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-11)
+## Unreleased (2026-05-12)
 
 <section class="features">
 
@@ -63,6 +63,7 @@
 
 <details>
 
+-   [`3a3c5c2`](https://github.com/stdlib-js/stdlib/commit/3a3c5c2edff808cd3a5d74390b3ce4d59853155c) - **docs:** update REPL namespace documentation [(#12099)](https://github.com/stdlib-js/stdlib/pull/12099) _(by stdlib-bot)_
 -   [`c77fbd9`](https://github.com/stdlib-js/stdlib/commit/c77fbd9a0ea702e373b40173007fcb4c0639c24e) - **refactor:** align `ndarray/base/diagonal` error message and remove `namespace` self-refs [(#12096)](https://github.com/stdlib-js/stdlib/pull/12096) _(by Philipp Burckhardt, Athan Reines)_
 -   [`64f925e`](https://github.com/stdlib-js/stdlib/commit/64f925e5d31880233d25e9ff7376b84478d68e63) - **docs:** update REPL docs _(by Athan Reines)_
 -   [`b8d09ca`](https://github.com/stdlib-js/stdlib/commit/b8d09cac262a732b639c44606e0d85f974965085) - **chore:** follow-up corrections for commits merged to develop on 2026-05-10 [(#12052)](https://github.com/stdlib-js/stdlib/pull/12052) _(by Philipp Burckhardt)_
