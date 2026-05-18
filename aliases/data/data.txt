@@ -3122,6 +3122,7 @@ tokenize
 transformStream
 trim
 trues
+truesLike
 truncate
 truncateMiddle
 trycatch

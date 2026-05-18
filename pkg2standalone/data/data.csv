@@ -3122,6 +3122,7 @@
 "@stdlib/streams/node/transform","@stdlib/streams-node-transform"
 "@stdlib/string/trim","@stdlib/string-trim"
 "@stdlib/ndarray/trues","@stdlib/ndarray-trues"
+"@stdlib/ndarray/trues-like","@stdlib/ndarray-trues-like"
 "@stdlib/string/truncate","@stdlib/string-truncate"
 "@stdlib/string/truncate-middle","@stdlib/string-truncate-middle"
 "@stdlib/utils/try-catch","@stdlib/utils-try-catch"
