@@ -1631,6 +1631,7 @@ exists
 expandAcronyms
 expandContractions
 extname
+falses
 FancyArray
 fastmath.abs
 fastmath.acosh

@@ -1631,6 +1631,7 @@
 "@stdlib/nlp/expand-acronyms","@stdlib/nlp/expand-contractions"
 "@stdlib/nlp/expand-contractions",""
 "@stdlib/utils/extname","@stdlib/utils/dirname"
+"@stdlib/ndarray/falses","@stdlib/ndarray/array,@stdlib/ndarray/ctor"
 "@stdlib/ndarray/fancy","@stdlib/ndarray/array,@stdlib/ndarray/ctor"
 "@stdlib/math/base/special/fast/abs","@stdlib/math/base/special/abs"
 "@stdlib/math/base/special/fast/acosh","@stdlib/math/base/special/acosh"
