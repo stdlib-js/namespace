@@ -1632,6 +1632,7 @@ expandAcronyms
 expandContractions
 extname
 falses
+falsesLike
 FancyArray
 fastmath.abs
 fastmath.acosh

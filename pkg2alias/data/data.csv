@@ -1632,6 +1632,7 @@
 "@stdlib/nlp/expand-contractions",expandContractions
 "@stdlib/utils/extname",extname
 "@stdlib/ndarray/falses",falses
+"@stdlib/ndarray/falses-like",falsesLike
 "@stdlib/ndarray/fancy",FancyArray
 "@stdlib/math/base/special/fast/abs",fastmath.abs
 "@stdlib/math/base/special/fast/acosh",fastmath.acosh
