@@ -3120,6 +3120,7 @@ toc
 tokenize
 transformStream
 trim
+trues
 truncate
 truncateMiddle
 trycatch

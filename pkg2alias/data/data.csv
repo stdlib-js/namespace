@@ -3120,6 +3120,7 @@
 "@stdlib/nlp/tokenize",tokenize
 "@stdlib/streams/node/transform",transformStream
 "@stdlib/string/trim",trim
+"@stdlib/ndarray/trues",trues
 "@stdlib/string/truncate",truncate
 "@stdlib/string/truncate-middle",truncateMiddle
 "@stdlib/utils/try-catch",trycatch
