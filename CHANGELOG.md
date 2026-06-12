@@ -2,6 +2,40 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2026-06-12)
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`aa763f8`](https://github.com/stdlib-js/stdlib/commit/aa763f8d006ece3648c9f8be16f26c9335f9fc78) - **docs:** correct CLI argument placeholder [(#12836)](https://github.com/stdlib-js/stdlib/pull/12836) _(by Philipp Burckhardt)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.4.1">
 
 ## 0.4.1 (2026-06-05)
