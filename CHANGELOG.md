@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`b78fcb8`](https://github.com/stdlib-js/stdlib/commit/b78fcb8bed8eb13972674d79583a32c4545f5043) - **test:** address test failures by increasing `maxBuffer` limit [(#13265)](https://github.com/stdlib-js/stdlib/pull/13265) _(by Philipp Burckhardt)_
 -   [`d2cee19`](https://github.com/stdlib-js/stdlib/commit/d2cee190b1626e142a25f8719232dd18220c5ce4) - **test:** update test values [(#13260)](https://github.com/stdlib-js/stdlib/pull/13260) _(by Philipp Burckhardt)_
 -   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - **feat:** update namespace _(by Athan Reines)_
 -   [`aed59d8`](https://github.com/stdlib-js/stdlib/commit/aed59d8fb4f75747d24fef73037981716ca2da19) - **refactor:** update paths _(by Neeraj Pathak)_
