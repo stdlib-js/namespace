@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-04)
+## Unreleased (2026-07-15)
 
 <section class="features">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`981720b`](https://github.com/stdlib-js/stdlib/commit/981720b14da698964856967c883c1db26b9f703a) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`b78fcb8`](https://github.com/stdlib-js/stdlib/commit/b78fcb8bed8eb13972674d79583a32c4545f5043) - **test:** address test failures by increasing `maxBuffer` limit [(#13265)](https://github.com/stdlib-js/stdlib/pull/13265) _(by Philipp Burckhardt)_
 -   [`d2cee19`](https://github.com/stdlib-js/stdlib/commit/d2cee190b1626e142a25f8719232dd18220c5ce4) - **test:** update test values [(#13260)](https://github.com/stdlib-js/stdlib/pull/13260) _(by Philipp Burckhardt)_
 -   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - **feat:** update namespace _(by Athan Reines)_
