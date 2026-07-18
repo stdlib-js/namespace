@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-15)
+## Unreleased (2026-07-18)
 
 <section class="features">
 
 ### Features
 
+-   [`edb079e`](https://github.com/stdlib-js/stdlib/commit/edb079e1e667d3915efb23e41361ab3fa7590fdd) - add `Int64` to namespace
 -   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - update namespace
 
 </section>
@@ -22,6 +23,7 @@
 
 <details>
 
+-   [`edb079e`](https://github.com/stdlib-js/stdlib/commit/edb079e1e667d3915efb23e41361ab3fa7590fdd) - **feat:** add `Int64` to namespace _(by Athan Reines)_
 -   [`981720b`](https://github.com/stdlib-js/stdlib/commit/981720b14da698964856967c883c1db26b9f703a) - **refactor:** update paths _(by Neeraj Pathak)_
 -   [`b78fcb8`](https://github.com/stdlib-js/stdlib/commit/b78fcb8bed8eb13972674d79583a32c4545f5043) - **test:** address test failures by increasing `maxBuffer` limit [(#13265)](https://github.com/stdlib-js/stdlib/pull/13265) _(by Philipp Burckhardt)_
 -   [`d2cee19`](https://github.com/stdlib-js/stdlib/commit/d2cee190b1626e142a25f8719232dd18220c5ce4) - **test:** update test values [(#13260)](https://github.com/stdlib-js/stdlib/pull/13260) _(by Philipp Burckhardt)_
