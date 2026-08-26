@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-21)
+## Unreleased (2026-08-26)
 
 <section class="features">
 
 ### Features
 
+-   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - add `Int64Array` to namespace and update related packages
 -   [`edb079e`](https://github.com/stdlib-js/stdlib/commit/edb079e1e667d3915efb23e41361ab3fa7590fdd) - add `Int64` to namespace
 -   [`313ecef`](https://github.com/stdlib-js/stdlib/commit/313ecef83a5956ac3fd12b24a68085b56747740d) - update namespace
 
@@ -23,6 +24,7 @@
 
 <details>
 
+-   [`3394547`](https://github.com/stdlib-js/stdlib/commit/3394547cf513f540da70e48152ac8b63f19cc1be) - **feat:** add `Int64Array` to namespace and update related packages _(by Athan Reines)_
 -   [`f7c6546`](https://github.com/stdlib-js/stdlib/commit/f7c6546ee0566ad4a3a4a71f71f9ce60ed138f5a) - **docs:** update REPL namespace documentation [(#13546)](https://github.com/stdlib-js/stdlib/pull/13546) _(by stdlib-bot)_
 -   [`edb079e`](https://github.com/stdlib-js/stdlib/commit/edb079e1e667d3915efb23e41361ab3fa7590fdd) - **feat:** add `Int64` to namespace _(by Athan Reines)_
 -   [`981720b`](https://github.com/stdlib-js/stdlib/commit/981720b14da698964856967c883c1db26b9f703a) - **refactor:** update paths _(by Neeraj Pathak)_
